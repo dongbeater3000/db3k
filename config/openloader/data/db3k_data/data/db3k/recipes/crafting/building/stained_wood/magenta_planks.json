@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#D#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:planks"
+        },
+        "D": {
+            "item": "minecraft:magenta_dye"
+        }
+    },
+    "result": {
+        "item": "kubejs:magenta_planks",
+        "count": 8
+    }
+}

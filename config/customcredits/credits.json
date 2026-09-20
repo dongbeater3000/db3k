@@ -1,0 +1,50 @@
+[
+    {
+      "section": "Credits",
+      "titles": [
+          {
+              "title": "DB3K",
+              "names": [
+                  "DB3K"
+            ]
+          },
+          {
+              "title": "Contributors",
+              "names": [
+                "Argus - Textures",
+                "Elithris - Art",
+                "Gamerforever12 - Reminding me to update the credits",
+                "Ilja615 - Datapack help",
+                "Nitpick - Textures",
+                "Pegnok - Worldgen ",
+                "Probablyekho - Recipe browser functionality",
+                "Raspmary - Scripting help",
+                "Vibriwhisker - Scripting help",
+                "XercaCode - Respawn block mod"
+            ]
+          },
+          {
+              "title": "Additional Credits",
+              "names": [
+                "DartCat25 - ''Enchanted Menus''",
+                "JimmJam - Block models",
+                "Klinbee - ''Alpha Gaia'' datapack, for worldgen",
+                "liopyu - Scripting help",
+                "locklick_ - Speaker texture",
+                "Mbanders - A very modified version of ''Cohesive Block Sounds''",
+                "Raspberry Flavoured - Scripts used as a base",
+                "Shock_Micro - Various shaders / block models",
+                "Yeahimliam - ''Beta Packs''",
+                "Zoeybarz - Improved sounds, various textures"
+
+            ]
+          },
+          {
+              "title": "In Memorium",
+              "names": [
+                  "Big Chuckgus"
+            ]
+          }
+        ]
+    }
+]

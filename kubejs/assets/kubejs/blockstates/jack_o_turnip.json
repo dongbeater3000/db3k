@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "kubejs:block/turnip_lantern",
+      "y": 0,
+      "uvlock": true
+    },
+    "facing=south": {
+      "model": "kubejs:block/turnip_lantern",
+      "y": 180,
+      "uvlock": true
+    },
+    "facing=east": {
+      "model": "kubejs:block/turnip_lantern",
+        "y": 90,
+        "uvlock": true
+    },
+    "facing=west": {
+      "model": "kubejs:block/turnip_lantern",
+      "y": 270,
+      "uvlock": true
+    }
+  }
+}

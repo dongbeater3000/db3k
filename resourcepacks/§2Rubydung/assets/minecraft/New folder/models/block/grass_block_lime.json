@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "minecraft:block/grass_block_top_lime",
+    "bottom": "minecraft:block/dirt_lime",
+    "side": "minecraft:block/grass_block_side_lime"
+  }
+}

@@ -1,0 +1,16 @@
+filename = 'Block Swap-forge-1.19.2-2.0.0.1.jar'
+name = 'Block Swap'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f00e25682c006dbbe5f3539c6f39a00d6ec7178d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4598240
+project-id = 468893

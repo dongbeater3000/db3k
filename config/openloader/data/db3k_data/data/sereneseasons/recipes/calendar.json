@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " P ",
+    "PCP",
+    " P "
+  ],
+  "key": {
+    "P": {
+      "item": "caverns_and_chasms:silver_ingot"
+    },
+	"C": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "sereneseasons:calendar"
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#D#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:planks"
+        },
+        "D": {
+            "item": "minecraft:black_dye"
+        }
+    },
+    "result": {
+        "item": "kubejs:black_planks",
+        "count": 8
+    }
+}

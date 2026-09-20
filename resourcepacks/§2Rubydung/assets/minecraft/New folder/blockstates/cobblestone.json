@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+        {"model": "minecraft:block/cobblestone"},
+        {"model": "minecraft:block/cobblestone_blue"},
+        {"model": "minecraft:block/cobblestone_cyan"},
+        {"model": "minecraft:block/cobblestone_green"},
+        {"model": "minecraft:block/cobblestone_indigo"},
+        {"model": "minecraft:block/cobblestone_lime"},
+        {"model": "minecraft:block/cobblestone_magenta"},
+        {"model": "minecraft:block/cobblestone_orange"},
+        {"model": "minecraft:block/cobblestone_pink"},
+        {"model": "minecraft:block/cobblestone_purple"},
+        {"model": "minecraft:block/cobblestone_red"},
+        {"model": "minecraft:block/cobblestone_teal"},
+        {"model": "minecraft:block/cobblestone_violet"},
+        {"model": "minecraft:block/cobblestone_yellow"}
+    ]
+  }
+}

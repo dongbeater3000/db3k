@@ -1,0 +1,16 @@
+filename = 'readyplayerfun-1.19.2-3.0.0.2-FORGE.jar'
+name = 'Ready Player Fun'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '923b2345dde23c7d636577da07ad5b882bc189e4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7013611
+project-id = 322036

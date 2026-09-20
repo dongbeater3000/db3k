@@ -1,0 +1,17 @@
+{
+    "type": "lychee:item_burning",
+    "item_in": {
+      "item": "kubejs:essence"
+    },
+    "block_in": "minecraft:fire",
+    "post": [
+        {
+          "type": "place",
+          "block": "*"
+        },
+        {
+          "type": "place",
+          "block": "minecraft:soul_fire"
+        }
+    ]
+}

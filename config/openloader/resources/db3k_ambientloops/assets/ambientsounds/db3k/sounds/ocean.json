@@ -1,0 +1,10 @@
+[
+    {
+        "name": "ocean",
+        "files": [
+            "kubejs:loops.ocean"
+        ],
+        "outside": true,
+        "volume": 0.1
+    }
+]

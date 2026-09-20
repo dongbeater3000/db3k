@@ -1,0 +1,16 @@
+filename = 'Respawn Block 0.1.0.jar'
+name = '[Discontinued] Respawn Block'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'd7e45de4d95a70233d006315a49aae186942e18e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5061414
+project-id = 967193

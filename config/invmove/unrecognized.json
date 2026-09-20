@@ -1,0 +1,29 @@
+{
+  "allowMovement": {
+    "net.minecraft.client.gui.screens.ReceivingLevelScreen": false,
+    "com.minenash.seamless_loading_screen.FadeScreen": false,
+    "mezz.jei.gui.recipes.RecipesGui": false,
+    "vazkii.quark.addons.oddities.client.screen.CrateScreen": false,
+    "com.github.alexthe666.locallooks.client.screen.LookCustomizationScreen": false,
+    "com.teamabnormals.caverns_and_chasms.client.gui.screens.inventory.ToolboxScreen": false,
+    "fpsoptimizer.client.gui.FPSScreen": true,
+    "org.infernalstudios.miningmaster.client.gui.screen.inventory.GemForgeScreen": true,
+    "net.minecraft.client.gui.screens.inventory.SmithingScreen": true,
+    "pepjebs.mapatlases.client.screen.AtlasOverviewScreen": true,
+    "net.mehvahdjukaar.supplementaries.client.screens.SackScreen": true,
+    "de.geheimagentnr1.selectable_painting.elements.items.selectable_painting.screen.SelectablePaintingScreen": true,
+    "com.github.alexthe666.citadel.client.gui.GuiCitadelBook": true,
+    "net.minecraft.client.gui.screens.PauseScreen": true,
+    "net.minecraft.client.gui.screens.social.SocialInteractionsScreen": true,
+    "de.keksuccino.fancymenu.customization.layout.editor.LayoutEditorScreen": true,
+    "de.keksuccino.fancymenu.util.rendering.ui.screen.ConfirmationScreen": true,
+    "de.keksuccino.fancymenu.customization.layout.editor.loadingrequirements.ManageRequirementsScreen": true,
+    "de.keksuccino.fancymenu.util.rendering.ui.screen.TextInputScreen": true,
+    "net.minecraft.client.gui.screens.ConfirmLinkScreen": true,
+    "net.mehvahdjukaar.supplementaries.client.screens.PulleyBlockScreen": true,
+    "com.mrcrayfish.catalogue.client.screen.CatalogueModListScreen": true,
+    "mod.adrenix.nostalgic.client.config.gui.screen.SettingsScreen": true,
+    "mod.adrenix.nostalgic.client.config.gui.screen.config.ConfigScreen": true
+  },
+  "hideBackground": {}
+}

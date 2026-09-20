@@ -1,0 +1,16 @@
+filename = 'CapeJS-1.0.0-1.19.2-forge.jar'
+name = 'CapeJS'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '202c6c4f422527b9b8362726782257c29d74b32b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4743410
+project-id = 911145

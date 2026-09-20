@@ -1,0 +1,3 @@
+{
+  "disabled_tabs": ["building_blocks", "decorations", "redstone", "transporation", "misc", "food", "tools", "combat", "brewing", "search", "domesticationinnovation", "paraglider", "farmersdelight", "Simple Shops", "quiver", "kubejs.kubejs", "create.base", "create.palettes", "tabSereneSeasons", "clay.clay_group", "clay.glay_misc_group", "storagedrawers", "archers_paradox", "dynamical_compass"]
+}

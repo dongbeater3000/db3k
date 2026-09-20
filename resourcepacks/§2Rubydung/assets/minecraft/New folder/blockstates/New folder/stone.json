@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+        {"model": "minecraft:block/stone"},
+        {"model": "minecraft:block/stone_blue"},
+        {"model": "minecraft:block/stone_cyan"},
+        {"model": "minecraft:block/stone_green"},
+        {"model": "minecraft:block/stone_indigo"},
+        {"model": "minecraft:block/stone_lime"},
+        {"model": "minecraft:block/stone_magenta"},
+        {"model": "minecraft:block/stone_orange"},
+        {"model": "minecraft:block/stone_pink"},
+        {"model": "minecraft:block/stone_purple"},
+        {"model": "minecraft:block/stone_red"},
+        {"model": "minecraft:block/stone_teal"},
+        {"model": "minecraft:block/stone_violet"},
+        {"model": "minecraft:block/stone_yellow"}
+    ]
+  }
+}

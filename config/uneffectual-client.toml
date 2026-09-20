@@ -1,0 +1,3 @@
+#The list of effect icons to hide. For example, 'minecraft:night_vision' or 'cofh_core:chilled'
+"Hidden Effects" = ["minecraft:instant_health", "minecraft:instant_damage", "minecraft:jump_boost", "minecraft:nausea", "minecraft:resistance", "minecraft:fire_resistance", "minecraft:water_breathing", "minecraft:invisibility", "minecraft:hunger", "minecraft:poison", "minecraft:wither", "minecraft:health_boost", "minecraft:absorption", "minecraft:saturation", "minecraft:levitation", "minecraft:luck", "minecraft:bad_luck", "minecraft:slow_falling", "minecraft:conduit_power", "minecraft:dolphins_grace", "minecraft:bad_omen", "minecraft:hero_of_the_village"]
+

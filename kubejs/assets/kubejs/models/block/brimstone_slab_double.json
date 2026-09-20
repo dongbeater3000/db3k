@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "kubejs:block/brimstone_slab",
+        "side": "kubejs:block/brimstone_slab_side"
+    }
+}

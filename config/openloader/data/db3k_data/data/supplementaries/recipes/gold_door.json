@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:stone"
+        }
+    },
+    "result": {
+        "item": "supplementaries:gold_door",
+        "count": 2
+    }
+}

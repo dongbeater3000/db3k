@@ -1,0 +1,160 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "supplementaries:fodder",
+              "conditions": [
+                {
+                  "condition": "minecraft:block_state_property",
+                  "block": "supplementaries:fodder",
+                  "properties": {
+                    "layers": "8"
+                  }
+                },
+                {
+                  "condition": "minecraft:match_tool",
+                  "predicate": {
+                    "enchantments": [
+                      {
+                        "enchantment": "minecraft:silk_touch"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:wheat",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": 4
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:survives_explosion"
+                },
+                {
+                  "condition": "minecraft:block_state_property",
+                  "block": "supplementaries:fodder",
+                  "properties": {
+                    "layers": "8"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:wheat",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": 3
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:alternative",
+                  "terms": [
+                    {
+                      "condition": "minecraft:block_state_property",
+                      "block": "supplementaries:fodder",
+                      "properties": {
+                        "layers": "7"
+                      }
+                    },
+                    {
+                      "condition": "minecraft:block_state_property",
+                      "block": "supplementaries:fodder",
+                      "properties": {
+                        "layers": "6"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:wheat",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": 2
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:alternative",
+                  "terms": [
+                    {
+                      "condition": "minecraft:block_state_property",
+                      "block": "supplementaries:fodder",
+                      "properties": {
+                        "layers": "5"
+                      }
+                    },
+                    {
+                      "condition": "minecraft:block_state_property",
+                      "block": "supplementaries:fodder",
+                      "properties": {
+                        "layers": "4"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:wheat",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": 1
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:alternative",
+                  "terms": [
+                    {
+                      "condition": "minecraft:block_state_property",
+                      "block": "supplementaries:fodder",
+                      "properties": {
+                        "layers": "3"
+                      }
+                    },
+                    {
+                      "condition": "minecraft:block_state_property",
+                      "block": "supplementaries:fodder",
+                      "properties": {
+                        "layers": "2"
+                      }
+                    },
+                    {
+                      "condition": "minecraft:block_state_property",
+                      "block": "supplementaries:fodder",
+                      "properties": {
+                        "layers": "1"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

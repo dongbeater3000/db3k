@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/spawner",
+    "side": "minecraft:block/spawner_side"
+  }
+}

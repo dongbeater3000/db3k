@@ -1,0 +1,16 @@
+filename = 'ResourcePackOverrides-v4.0.4-1.19.2-Forge.jar'
+name = 'Resource Pack Overrides'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '83d9de57470d923f0b017133c201887264e4bd61'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4438897
+project-id = 832644

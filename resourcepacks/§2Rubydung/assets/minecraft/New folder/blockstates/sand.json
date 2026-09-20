@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+        {"model": "minecraft:block/sand"},
+        {"model": "minecraft:block/sand_blue"},
+        {"model": "minecraft:block/sand_cyan"},
+        {"model": "minecraft:block/sand_green"},
+        {"model": "minecraft:block/sand_indigo"},
+        {"model": "minecraft:block/sand_lime"},
+        {"model": "minecraft:block/sand_magenta"},
+        {"model": "minecraft:block/sand_orange"},
+        {"model": "minecraft:block/sand_pink"},
+        {"model": "minecraft:block/sand_purple"},
+        {"model": "minecraft:block/sand_red"},
+        {"model": "minecraft:block/sand_teal"},
+        {"model": "minecraft:block/sand_violet"},
+        {"model": "minecraft:block/sand_yellow"}
+    ]
+  }
+}

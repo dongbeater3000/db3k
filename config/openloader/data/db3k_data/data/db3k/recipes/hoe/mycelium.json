@@ -1,0 +1,25 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+      "tag": "forge:tools/hoes"
+    },
+    "block_in": "mycelium",
+    "post": [
+        {
+          "type": "damage_item"
+        },
+        {
+          "type": "drop_item",
+          "item": "kubejs:mold"
+        },
+        {
+          "type": "place",
+          "block": "*"
+        },
+        {
+          "type": "place",
+          "block": "minecraft:dirt"
+        }
+
+    ]
+}

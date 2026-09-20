@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+        {"model": "minecraft:block/grass_block_top"},
+        {"model": "minecraft:block/grass_block_top_blue"},
+        {"model": "minecraft:block/grass_block_top_cyan"},
+        {"model": "minecraft:block/grass_block_top_green"},
+        {"model": "minecraft:block/grass_block_top_indigo"},
+        {"model": "minecraft:block/grass_block_top_lime"},
+        {"model": "minecraft:block/grass_block_top_magenta"},
+        {"model": "minecraft:block/grass_block_top_orange"},
+        {"model": "minecraft:block/grass_block_top_pink"},
+        {"model": "minecraft:block/grass_block_top_purple"},
+        {"model": "minecraft:block/grass_block_top_red"},
+        {"model": "minecraft:block/grass_block_top_teal"},
+        {"model": "minecraft:block/grass_block_top_violet"},
+        {"model": "minecraft:block/grass_block_top_yellow"}
+    ]
+  }
+}

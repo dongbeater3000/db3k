@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+        {"model": "minecraft:block/oak_leaves"},
+        {"model": "minecraft:block/oak_leaves_blue"},
+        {"model": "minecraft:block/oak_leaves_cyan"},
+        {"model": "minecraft:block/oak_leaves_green"},
+        {"model": "minecraft:block/oak_leaves_indigo"},
+        {"model": "minecraft:block/oak_leaves_lime"},
+        {"model": "minecraft:block/oak_leaves_magenta"},
+        {"model": "minecraft:block/oak_leaves_orange"},
+        {"model": "minecraft:block/oak_leaves_pink"},
+        {"model": "minecraft:block/oak_leaves_purple"},
+        {"model": "minecraft:block/oak_leaves_red"},
+        {"model": "minecraft:block/oak_leaves_teal"},
+        {"model": "minecraft:block/oak_leaves_violet"},
+        {"model": "minecraft:block/oak_leaves_yellow"}
+    ]
+  }
+}

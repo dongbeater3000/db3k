@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#M#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "kubejs:mold"
+        },
+        "M": {
+            "item": "minecraft:milk_bucket"
+        }
+    },
+    "result": {
+        "item": "kubejs:cheese",
+        "count": 1
+    }
+}

@@ -1,0 +1,57 @@
+#$%#$%#$%#$%#$%#$%#$%#$%##$%#$%#$%#$%#$
+		DB3K v1.1 (Deadbeat3000 Update)
+#$%#$%#$%#$%#$%#$%#$%#$%##$%#$%#$%#$%#$
+
+It is reccomended, as usual, to update this to a NEW INSTANCE to avoid config to avoid possible conflicting configuration issues. Please make sure to back up your worlds!
+
++ Pig riding is now more fun
++ Dying is slightly more punishing
++ Red dust can now be compacted
++ Entities are slightly more whimsical 
++ Note blocks can be tuned quicker with stacks of sticks
++ Water filling is slightly less annoying
++ Fog can now be toggled with a keybind (Defaults to F, cycles through 16->8->4->2)
+	/*Note, if updating a pre-existing client you will likely need to edit any keybind changes yourself*/
++ Chat messages now support markdown formatting (bold, strikethrough, underscore, italic)
++ Added Vertex Offsets from classic 0.0.14a as a resource pack (made by Cappin)
++ Redesigned a certain cave monster
++ Added a new way to obtain sponges
++ Alternative damage sounds can now be selected from the Player Customization menu
++ Added larger ore veins from Classic
++ Added purple arrows from Indev
++ Added inventory movement behavior from Infdev
++ Reverted zombie damage nerf from some point after r1.0
++ Certain interactions have some extra flair
++ Player nameplates are more easily distinguishable
++ Updated to forge 43.5.1 to fix some crashes
+
+* Fishing rod now displays as it did in Alpha 1.2, as intended
+* Skeletons no longer hold visable bows
+* Fixed broken recipes
+* Block sounds are more accurate
+* Flower generation is slightly more accurate
+* Made previous update's golden apple change less frequent
+* Misc texture tweaks
+* Default keybinds are now properly set (maybe?)
+* Copper is slightly more common
+* Fog obscures less of the horizon
+* Eggs now hatch fully grown chickens
+* Newly generated worlds will be set to early spring by default
+* Shuffled seasonal weather for better pacing
+* World time will no longer progress on servers when nobody is online
+* Stained glass is less hideous, with new textures generated with ACMTTWGWCCICBBTCI technology (tm)
+* A certain mystical world feature is now significantly rarer
+* EMI no longer spams the log complaining about tooltips
+* Fixed broken dialogue options
+
+- Removed offhand functionality (Items currently in offhand will be moved into inventory, or dropped)
+- Removed apple on a stick
+- Camera no longer turns with ridden entities due to general bugginess
+- Animals will no longer nibble from hay bales
+- Animals will no longer spawn as babies
+- Coal and Red Stone can no longer be compacted, existing tiles will be converted to an equivalent block
+- Removed a few words from the world name pool that were too specifically "Terraria"
+- Portals can no longer be constructed
+- removed Bad Mobs (redundant with previously implemented KubeJS script)
+- removed Modern Fix (
+- Removed inventory sorting mod (this needed ELECTRON?)

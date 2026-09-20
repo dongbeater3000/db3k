@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/template_piston_head",
+  "textures": {
+    "platform": "minecraft:block/piston_top_sticky",
+    "side": "minecraft:block/piston_side_sticky",
+    "side_2": "minecraft:block/copper_block_side",
+    "back": "minecraft:block/copper_block_bottom",
+    "unsticky": "minecraft:block/piston_top_sticky"
+  }
+}

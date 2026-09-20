@@ -1,0 +1,16 @@
+filename = 'mc237017_fix-1.0.0-1.19.jar'
+name = 'Deep Underground Lava Fix (Forge Port)'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c7c9f98f72956462e252eb5e67ef5691c9eb8469'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6382378
+project-id = 1235049

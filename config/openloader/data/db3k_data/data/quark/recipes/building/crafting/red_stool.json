@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "OOO"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:leather"
+        },
+        "O": {
+            "item": "minecraft:oak_planks"
+        }
+    },
+    "result": {
+        "item": "quark:red_stool",
+        "count": 1
+    }
+}

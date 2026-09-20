@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:milk_bucket"
+    },
+    "result": "kubejs:cheese",
+    "experience": 0,
+    "cookingtime": 200
+}

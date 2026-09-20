@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "nostalgic_tweaks:block/chest_top_bottom",
+    "front": "supplementaries:blocks/cork_board_full",
+    "side": "nostalgic_tweaks:block/chest_top_bottom"
+  }
+}

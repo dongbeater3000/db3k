@@ -1,0 +1,38 @@
+{
+	"block.quark.gunpowder_sack": "Sulphur Sack",
+	"block.quark.cobblestone_bricks": "Stone Bricks",
+	"block.quark.soul_sandstone": "Soulstone",
+	"block.quark.soul_sandstone_bricks": "Soulstone Bricks",
+	"block.quark.mossy_cobblestone_bricks": "Moss Stone Bricks",
+	"block.quark.charcoal_block": "Coal Block",
+	"block.quark.obsidian_pressure_plate": "Iron Plate",
+	"block.quark.red_stool": "Stool",
+
+	"item.quark.slime_in_a_bucket": "Slime Bucket",
+	"item.quark.abacus": "Ruler",
+	"item.quark.rope_coil": "Rope",
+
+	"block.quark.dirty_glass": "Paper Wall",
+  "block.quark.grate": "Grate",
+  "block.quark.sugar_cane_block": "Wicker",
+	"block.quark.stick_block": "Wattle",
+  "block.quark.crate": "Crate",
+  "block.quark.bonded_leather": "Leather Block",
+
+	"block.quark.white_shingles": "White Shingles",
+	"block.quark.orange_shingles": "Orange Shingles",
+	"block.quark.magenta_shingles": "Magenta Shingles",
+	"block.quark.light_blue_shingles": "Blue Shingles",
+	"block.quark.yellow_shingles": "Yellow Shingles",
+	"block.quark.lime_shingles": "Lime Shingles",
+	"block.quark.pink_shingles": "Rose Shingles",
+	"block.quark.gray_shingles": "Gray Shingles",
+	"block.quark.light_gray_shingles": "Violet Shingles",
+	"block.quark.cyan_shingles": "Cyan Shingles",
+	"block.quark.purple_shingles": "Purple Shingles",
+	"block.quark.blue_shingles": "Indigo Shingles",
+	"block.quark.brown_shingles": "Teal Shingles",
+	"block.quark.green_shingles": "Green Shingles",
+	"block.quark.shingles": "Red Shingles",
+	"block.quark.black_shingles": "Black Shingles"
+}

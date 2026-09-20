@@ -1,0 +1,12 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+      "item": "minecraft:iron_shovel"
+    },
+    "block_in": "dirt",
+    "post": [
+        {
+          "type": "prevent_default"
+        }
+    ]
+}

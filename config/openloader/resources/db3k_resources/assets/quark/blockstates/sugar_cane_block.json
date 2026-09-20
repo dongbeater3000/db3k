@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "quark:block/sugar_cane_block" },
+        "axis=z":   { "model": "quark:block/sugar_cane_block" },
+        "axis=x":   { "model": "quark:block/sugar_cane_block" }
+    }
+}

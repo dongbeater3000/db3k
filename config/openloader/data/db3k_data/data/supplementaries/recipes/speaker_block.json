@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#O#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:planks"
+        },
+        "O": {
+            "item": "minecraft:nautilus_shell"
+        }
+    },
+    "result": {
+        "item": "supplementaries:speaker_block",
+        "count": 1
+    }
+}

@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = /home/jonas/.local/share/PrismLauncher/instances/DB3K/minecraft/saves/The Nimble Area of Wealth
+}
+

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:lake",
+  "config": {
+    "barrier": {
+      "type": "minecraft:weighted_state_provider",
+      "state": {
+        "Name": "minecraft:stone"
+      },
+      "entries": [
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:stone"
+          }
+        }
+      ]
+    },
+    "fluid": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:water",
+        "Properties": {
+          "level": "0"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+filename = 'CIT Reforged 1.19.jar'
+name = 'CIT Reforged'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e3b6316581240565443acd1c161b582fc9257070'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4739787
+project-id = 910362

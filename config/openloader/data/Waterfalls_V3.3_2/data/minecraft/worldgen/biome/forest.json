@@ -1,0 +1,145 @@
+{
+  "effects": {
+    "mood_sound": {
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2.0
+    },
+    "sky_color": 6928895,
+    "fog_color": 12638463,
+    "water_color": 4159204,
+    "water_fog_color": 329011
+  },
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [],
+    [],
+    [],
+    [
+      "minecraft:monster_room"
+    ],
+    [
+      "minecraft:cave_delta"
+    ],
+    [],
+    [
+      "minecraft:ore_dirt",
+      "minecraft:ore_gravel",
+      "db3k:ore_magma",
+      "db3k:ore_clay",
+      "db3k:ore_coal",
+      "db3k:ore_iron",
+      "db3k:ore_copper",
+      "db3k:ore_redstone",
+      "db3k:ore_diamond",
+      "db3k:ore_gold",
+      "db3k:ore_silver",
+      "db3k:ore_big_coal",
+      "db3k:ore_big_iron",
+      "db3k:ore_big_copper",
+      "db3k:ore_big_redstone",
+      "db3k:ore_big_diamond",
+      "db3k:ore_big_gold",
+      "db3k:ore_big_silver"
+    ],
+    [],
+    [
+      "minecraft:spring_water", "minecraft:spring_lava"
+    ],
+    [
+      "minecraft:trees",
+      "minecraft:patch_brown_mushroom",
+      "minecraft:patch_red_mushroom",
+      "minecraft:patch_reeds",
+      "minecraft:patch_cactus",
+      "db3k:patch_flowers_red",
+      "db3k:patch_flowers_yellow",
+      "db3k:patch_flowers_blue",
+      "db3k:patch_water_lillies",
+      "minecraft:patch_flower_lone",
+      "db3k:patch_berries",
+      "db3k:cobweb_cave",
+      "db3k:cobweb_surface",
+      "db3k:patch_mycelium",
+      "db3k:patch_coral"
+    ],
+    ["minecraft:freeze_top_layer"]
+  ],
+  "spawners": {
+    "monster": [
+      {
+        "type": "minecraft:spider",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:zombie",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:skeleton",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:creeper",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:slime",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      }
+    ],
+    "creature": [
+      {
+        "type": "minecraft:sheep",
+        "weight": 10,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:pig",
+        "weight": 10,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:chicken",
+        "weight": 10,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:cow",
+        "weight": 10,
+        "minCount": 4,
+        "maxCount": 4
+      }
+    ],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "precipitation": "rain",
+  "temperature": 0.7,
+  "downfall": 0.8
+}

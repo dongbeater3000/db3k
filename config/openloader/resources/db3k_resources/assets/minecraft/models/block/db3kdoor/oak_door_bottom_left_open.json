@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_left_open",
+  "textures": {
+    "door": "minecraft:models/wooden_door",
+    "particle": "minecraft:block/oak_planks"
+  }
+}

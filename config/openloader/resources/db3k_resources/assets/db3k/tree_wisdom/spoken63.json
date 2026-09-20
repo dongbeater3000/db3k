@@ -1,0 +1,7 @@
+{
+    "type": "talked_to",
+    "trust_required": 50,
+    "text": [
+			"I'm so hungry, I could eat a $player_name"
+		]
+  }

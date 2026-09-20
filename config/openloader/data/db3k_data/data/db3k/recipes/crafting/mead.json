@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "@",
+        "#",
+        "/"
+    ],
+    "key": {
+        "/": {
+            "item": "kubejs:chalice"
+        },
+        "#": {
+            "item": "minecraft:sugar_cane"
+        },
+        "@": {
+            "item": "kubejs:mold"
+        }
+    },
+    "result": {
+        "item": "kubejs:mead",
+        "count": 1
+    }
+}

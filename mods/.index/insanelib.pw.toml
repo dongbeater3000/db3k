@@ -1,0 +1,16 @@
+filename = 'InsaneLib-1.7.5-mc1.19.2.jar'
+name = 'InsaneLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3d2b3e3547ceae2d86baf6bd7d3296f8f12da286'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4362859
+project-id = 465109

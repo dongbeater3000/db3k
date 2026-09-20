@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  i",
+        " O ",
+        "O  "
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "O": {
+            "item": "quark:rope"
+        }
+    },
+    "result": {
+      "item": "grapplemod:grapplinghook"
+    }
+}

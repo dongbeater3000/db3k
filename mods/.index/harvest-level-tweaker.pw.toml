@@ -1,0 +1,16 @@
+filename = 'harvestleveltweaker-1.19.2-1.2.2.jar'
+name = 'Harvest Level Tweaker'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '14f85d7d3e4d1277d130b1f920d8e4d29ac5e5e7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5001635
+project-id = 833035

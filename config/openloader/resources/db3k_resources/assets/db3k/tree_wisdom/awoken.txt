@@ -1,0 +1,21 @@
+Who dares disturb my slumber!
+Huh, what was that? I swear I felt something
+How dare you interrupt the Ancient One's slumber?!
+Who dares awaken me
+Hello there. (10)
+What is it this time? (10)
+Oh, its you again (50)
+I have awakened (50)
+And so we meet again (50)
+Greetings $player_name (50)
+Speak, I don't have all day! Oh wait, I do. (75)
+Stop tickling me (75)
+Well, if it isnt $player_name! (75)
+Is it spring already? (75)
+Lovely day today, wouldn't you agree? (75)
+Welcome Traveller (75)
+What's the matter? (75)
+Oh, I'm finally awake (75)
+Wood morning (100)
+5 more minutes please (100)
+Shiver me timbers (100)

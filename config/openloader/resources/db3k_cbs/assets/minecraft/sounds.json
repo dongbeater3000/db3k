@@ -1,0 +1,860 @@
+{
+  "block.grass.hit": {
+    "sounds": [
+      {
+        "name": "block.grass.break",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.sand.break": {
+    "sounds": [
+      {
+        "name": "block.gravel.break",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.sand.step": {
+    "sounds": [
+      {
+        "name": "block.sand.place",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+    "block.sand.hit": {
+    "sounds": [
+      {
+        "name": "block.sand.place",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.gravel.step": {
+    "sounds": [
+      {
+        "name": "block.gravel.break",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.gravel.fall": {
+    "sounds": [
+      {
+        "name": "block.gravel.break",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+    "block.gravel.hit": {
+    "sounds": [
+      {
+        "name": "block.gravel.break",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.netherite_block.hit": {
+    "sounds": [
+      {
+        "name": "block.netherite_block.break",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.netherite_block.fall": {
+    "sounds": [
+      {
+        "name": "block.netherite_block.break",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.netherite_block.step": {
+    "sounds": [
+      {
+        "name": "block.netherite_block.break",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.nether_bricks.hit": {
+    "sounds": [
+      {
+        "name": "block.nether_bricks.break",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.nether_bricks.fall": {
+    "sounds": [
+      {
+        "name": "block.nether_bricks.break",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.nether_bricks.step": {
+    "sounds": [
+      {
+        "name": "block.nether_bricks.break",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.grass.step": {
+    "sounds": [
+      {
+        "name": "block.grass.break",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.grass.fall": {
+    "sounds": [
+      {
+        "name": "block.grass.break",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+    "block.wood.hit": {
+    "sounds": [
+      {
+        "name": "block.wood.break",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.wood.step": {
+    "sounds": [
+      {
+        "name": "block.wood.break",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.wood.fall": {
+    "sounds": [
+      {
+        "name": "block.wood.break",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.stone.step": {
+    "sounds": [
+      {
+        "name": "block.stone.break",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.stone.fall": {
+    "sounds": [
+      {
+        "name": "block.stone.break",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+    "block.stone.hit": {
+    "sounds": [
+      {
+        "name": "block.stone.break",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.crop.break": {
+    "sounds": [
+      {
+        "name": "block.grass.break",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "item.crop.place": {
+    "sounds": [
+      {
+        "name": "block.grass.place",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.crop.hit": {
+    "sounds": [
+      {
+        "name": "block.grass.hit",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.glass.place": {
+    "sounds": [
+      {
+        "name": "block.stone.step",
+        "type": "event"
+      }
+    ],
+    "subtitle": "subtitles.block.generic.place",
+    "replace": true
+  },
+  "block.glass.fall": {
+    "sounds": [
+      {
+        "name": "block.stone.fall",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.glass.hit": {
+    "sounds": [
+      {
+        "name": "block.stone.hit",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.glass.step": {
+    "sounds": [
+      {
+        "name": "block.stone.step",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.deepslate.break": {
+    "sounds": [
+      {
+        "name": "block.stone.break",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.deepslate.fall": {
+    "sounds": [
+      {
+        "name": "block.stone.fall",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.deepslate.hit": {
+    "sounds": [
+      {
+        "name": "block.stone.hit",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.deepslate.place": {
+    "sounds": [
+      {
+        "name": "block.stone.place",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.deepslate.step": {
+    "sounds": [
+      {
+        "name": "block.stone.step",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.polished_deepslate.break": {
+    "sounds": [
+      {
+        "name": "block.stone.break",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.polished_deepslate.fall": {
+    "sounds": [
+      {
+        "name": "block.stone.fall",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.polished_deepslate.hit": {
+    "sounds": [
+      {
+        "name": "block.stone.hit",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.polished_deepslate.place": {
+    "sounds": [
+      {
+        "name": "block.stone.place",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.polished_deepslate.step": {
+    "sounds": [
+      {
+        "name": "block.stone.step",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.dripstone_block.break": {
+    "sounds": [
+      {
+        "name": "block.stone.break",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.dripstone_block.fall": {
+    "sounds": [
+      {
+        "name": "block.stone.fall",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.dripstone_block.hit": {
+    "sounds": [
+      {
+        "name": "block.stone.hit",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.dripstone_block.place": {
+    "sounds": [
+      {
+        "name": "block.stone.place",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.dripstone_block.step": {
+    "sounds": [
+      {
+        "name": "block.stone.step",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.ladder.break": {
+    "sounds": [
+      {
+        "name": "block.wood.break",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.ladder.place": {
+    "sounds": [
+      {
+        "name": "block.wood.place",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.lily_pad.place": {
+    "sounds": [
+      {
+        "name": "block.grass.place",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.lodestone.break": {
+    "sounds": [
+      {
+        "name": "block.stone.break",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.lodestone.fall": {
+    "sounds": [
+      {
+        "name": "block.stone.fall",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.lodestone.hit": {
+    "sounds": [
+      {
+        "name": "block.stone.hit",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.lodestone.place": {
+    "sounds": [
+      {
+        "name": "block.stone.place",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.lodestone.step": {
+    "sounds": [
+      {
+        "name": "block.stone.step",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.moss.break": {
+    "sounds": [
+      {
+        "name": "block.grass.break",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.moss.fall": {
+    "sounds": [
+      {
+        "name": "block.grass.fall",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.moss.hit": {
+    "sounds": [
+      {
+        "name": "block.grass.hit",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.moss.place": {
+    "sounds": [
+      {
+        "name": "block.grass.place",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.moss.step": {
+    "sounds": [
+      {
+        "name": "block.grass.step",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.pointed_dripstone.break": {
+    "sounds": [
+      {
+        "name": "block.stone.break",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.pointed_dripstone.fall": {
+    "sounds": [
+      {
+        "name": "block.stone.fall",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.pointed_dripstone.hit": {
+    "sounds": [
+      {
+        "name": "block.stone.hit",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.pointed_dripstone.land": {
+    "sounds": [
+      {
+        "name": "block.stone.break",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.pointed_dripstone.place": {
+    "sounds": [
+      {
+        "name": "block.stone.place",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.pointed_dripstone.step": {
+    "sounds": [
+      {
+        "name": "block.stone.step",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.scaffolding.fall": {
+    "sounds": [
+      {
+        "name": "block.ladder.fall",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.scaffolding.hit": {
+    "sounds": [
+      {
+        "name": "block.ladder.hit",
+        "type": "event"
+      }
+    ],
+    "subtitle": "subtitles.block.generic.hit",
+    "replace": true
+  },
+  "block.scaffolding.step": {
+    "sounds": [
+      {
+        "name": "block.ladder.step",
+        "type": "event"
+      }
+    ],
+    "subtitle": "subtitles.block.generic.footsteps",
+    "replace": true
+  },
+  "block.scaffolding.break": {
+    "sounds": [
+      {
+        "name": "block.wood.break",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.scaffolding.place": {
+    "sounds": [
+      {
+        "name": "block.wood.place",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.sweet_berry_bush.break": {
+    "sounds": [
+      {
+        "name": "block.grass.break",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.sweet_berry_bush.place": {
+    "sounds": [
+      {
+        "name": "block.grass.place",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.vine.break": {
+    "sounds": [
+      {
+        "name": "block.grass.break",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.vine.fall": {
+    "sounds": [
+      {
+        "name": "block.grass.fall",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.vine.hit": {
+    "sounds": [
+      {
+        "name": "block.grass.hit",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.vine.place": {
+    "sounds": [
+      {
+        "name": "block.grass.place",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.vine.step": {
+    "sounds": [
+      {
+        "name": "block.grass.step",
+        "type": "event"
+      }
+    ],
+    "replace": true,
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.weeping_vines.break": {
+    "sounds": [
+      {
+        "name": "block.grass.break",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.weeping_vines.place": {
+    "sounds": [
+      {
+        "name": "block.grass.place",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.weeping_vines.hit": {
+    "sounds": [
+      {
+        "name": "block.grass.hit",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.weeping_vines.step": {
+    "sounds": [
+      {
+        "name": "block.grass.step",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "block.weeping_vines.fall": {
+    "sounds": [
+      {
+        "name": "block.grass.fall",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "item.crossbow.shoot": {
+    "sounds": [
+      {
+        "name": "item.bow.shoot"
+      }
+    ],
+    "subtitle": "subtitles.item.crossbow.shoot",
+    "replace": true
+  },
+
+	"block.nether_ore.break": {
+		"sounds": [
+			{
+				"name": "block.stone.break",
+				"type": "event"
+			}
+		],
+		"replace": true,
+		"subtitle": "subtitles.block.generic.break"
+	},
+	"block.nether_ore.fall": {
+		"sounds": [
+			{
+				"name": "block.stone.fall",
+				"type": "event"
+			}
+		],
+		"replace": true
+	},
+	"block.nether_ore.hit": {
+		"sounds": [
+			{
+				"name": "block.stone.hit",
+				"type": "event"
+			}
+		],
+		"replace": true,
+		"subtitle": "subtitles.block.generic.hit"
+	},
+	"block.nether_ore.place": {
+		"sounds": [
+			{
+				"name": "block.stone.place",
+				"type": "event"
+			}
+		],
+		"replace": true,
+		"subtitle": "subtitles.block.generic.place"
+	},
+	"block.nether_ore.step": {
+		"sounds": [
+			{
+				"name": "block.stone.step",
+				"type": "event"
+			}
+		],
+		"replace": true,
+		"subtitle": "subtitles.block.generic.footsteps"
+	},
+  "block.fungus.break": {
+		"sounds": [
+			{
+				"name": "block.grass.break",
+				"type": "event"
+			}
+		],
+		"replace": true,
+		"subtitle": "subtitles.block.generic.break"
+	},
+	"block.fungus.fall": {
+		"sounds": [
+			{
+				"name": "block.grass.fall",
+				"type": "event"
+			}
+		],
+		"replace": true
+	},
+	"block.fungus.hit": {
+		"sounds": [
+			{
+				"name": "block.grass.hit",
+				"type": "event"
+			}
+		],
+		"replace": true,
+		"subtitle": "subtitles.block.generic.hit"
+	},
+	"block.fungus.place": {
+		"sounds": [
+			{
+				"name": "block.grass.place",
+				"type": "event"
+			}
+		],
+		"replace": true,
+		"subtitle": "subtitles.block.generic.place"
+	},
+	"block.fungus.step": {
+		"sounds": [
+			{
+				"name": "block.grass.step",
+				"type": "event"
+			}
+		],
+		"replace": true,
+		"subtitle": "subtitles.block.generic.footsteps"
+	}
+}

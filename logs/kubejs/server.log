@@ -1,0 +1,31 @@
+[17:56:38] [INIT] KubeJS 1902.6.2-build.73; MC 1902 forge
+[17:56:38] [INIT] Loaded plugins:
+[17:56:38] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[17:56:38] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[17:56:38] [INIT] - com.common.keybindjs.kubejs.KeyBindJSPlugin
+[17:56:38] [INIT] - dev.thestaticvoid.capejs.kubejs.CapeJSPlugin
+[17:56:38] [INIT] - net.liopyu.entityjs.EntityJSPlugin
+[17:56:38] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
+[17:56:38] [INFO] Loaded script server_scripts:interaction_events.js in 0.006 s
+[17:56:38] [INFO] Loaded script server_scripts:structurenuke.js in 0.001 s
+[17:56:38] [INFO] server_script.js#16: Loaded Java class 'sereneseasons.api.season.SeasonHelper'
+[17:56:38] [INFO] Loaded script server_scripts:server_script.js in 0.003 s
+[17:56:38] [INFO] Loaded script server_scripts:bone_meal.js in 0.002 s
+[17:56:38] [INFO] Loaded script server_scripts:aesthetic_events.js in 0.001 s
+[17:56:38] [INFO] Loaded script server_scripts:tnt_diffuse.js in 0.0 s
+[17:56:38] [INFO] Loaded script server_scripts:tags.js in 0.0 s
+[17:56:38] [INFO] Loaded script server_scripts:skeletal_bows.js in 0.0 s
+[17:56:38] [INFO] Loaded script server_scripts:tags_sounds.js in 0.0 s
+[17:56:38] [INFO] Loaded script server_scripts:name_colors.js in 0.001 s
+[17:56:38] [INFO] Loaded script server_scripts:recipes.js in 0.001 s
+[17:56:38] [INFO] Loaded script server_scripts:startup_globals.js in 0.0 s
+[17:56:38] [INFO] Loaded script server_scripts:score.js in 0.001 s
+[17:56:38] [INFO] Loaded script server_scripts:item_nuke.js in 0.0 s
+[17:56:38] [INFO] Loaded script server_scripts:entity_events.js in 0.001 s
+[17:56:38] [INFO] Loaded script server_scripts:singlehanded.js in 0.0 s
+[17:56:38] [INFO] Loaded 16/16 KubeJS server scripts in 0.048 s
+[17:56:38] [INFO] Scripts loaded
+[17:56:38] [INFO] Initializing recipe event...
+[17:56:38] [WARN] Due to the way Minecraft resource loading works, KubeJS' server.log may not contain everything that happened in your server scripts on initial world creation.
+[17:56:38] [WARN] You can still see the full log (including past reloads) in your latest.log file.
+[17:57:17] [INFO] name_colors.js#15: garfieldfootfan has val 119, assigning color yellow

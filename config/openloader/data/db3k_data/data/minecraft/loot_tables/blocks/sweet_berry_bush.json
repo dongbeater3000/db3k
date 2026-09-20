@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "berry_good:sweet_berry_pips",
+          "functions": [],
+          "conditions": []
+        }
+      ],
+      "conditions": []
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sweet_berries",
+          "functions": [],
+          "conditions": []
+        }
+      ],
+      "conditions": [
+        {
+          "block": "minecraft:sweet_berry_bush",
+          "condition": "minecraft:block_state_property",
+          "properties": {
+            "age": "3"
+          }
+        }
+      ]
+    }
+  ],
+  "functions": [
+    {
+      "function": "minecraft:explosion_decay"
+    }
+  ]
+}

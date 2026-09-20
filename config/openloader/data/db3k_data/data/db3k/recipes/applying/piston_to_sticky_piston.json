@@ -1,0 +1,17 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+      "item": "minecraft:slime_ball"
+    },
+    "block_in": "minecraft:piston",
+    "post": [
+        {
+          "type": "place",
+          "block": "minecraft:sticky_piston"
+        },
+        {
+          "type": "execute",
+          "command": "playsound minecraft:block.slime_block.place block @s ~ ~ ~"
+        }
+    ]
+}

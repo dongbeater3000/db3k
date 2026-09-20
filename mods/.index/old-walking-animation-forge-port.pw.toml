@@ -1,0 +1,16 @@
+filename = 'oldwalkinganimation-1.0.1.jar'
+name = 'Old Walking Animation (Forge Port)'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2', '1.19.3', '1.19.4', '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6', '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3025362fc5d3efc2977d433bffa52a422293c47c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6409092
+project-id = 974049

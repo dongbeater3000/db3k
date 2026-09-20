@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "tag": "db3k:wood_ash_materials"
+    },
+    "result": "supplementaries:ash",
+    "experience": 0,
+    "cookingtime": 200
+}

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "cave",
+        "category": "cave",
+        "files": [
+            "kubejs:loops.chimes"
+        ],
+        "volume": 0.25,
+        "transition": 200
+    }     
+]

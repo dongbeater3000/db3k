@@ -1,0 +1,16 @@
+filename = 'liolib-forge-1.19.2-0.0.2.jar'
+name = 'LioLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd875ad1ead6ff0bd6994ef0caaf70548b7b0d583'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5937083
+project-id = 973100

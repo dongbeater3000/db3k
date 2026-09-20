@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all_big",
+    "textures": {
+	"all": "minecraft:block/cactus_full"
+    }
+}

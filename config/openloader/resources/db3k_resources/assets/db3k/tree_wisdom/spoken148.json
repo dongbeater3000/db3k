@@ -1,0 +1,7 @@
+{
+  "type": "talked_to",
+  "trust_required": 85,
+  "text": [
+		"I hear rumors of a land known as $random_country"	
+	]
+}

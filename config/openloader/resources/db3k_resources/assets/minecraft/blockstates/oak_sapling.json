@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "stage=0": [
+	  {
+	    "model": "block/sapling"
+	  }
+    ],
+	"stage=1": [
+	  {
+	    "model": "block/sapling_tall"
+	  }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+filename = 'controllable-0.18.0-1.19.2.jar'
+name = 'Controllable'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'cc4999295b0f5516679223a0a09da6dac953b7e8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4445137
+project-id = 317269

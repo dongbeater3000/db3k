@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#D#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:brick"
+        },
+        "D": {
+            "item": "minecraft:gray_dye"
+        }
+    },
+    "result": {
+        "item": "quark:gray_shingles",
+        "count": 2
+    }
+}

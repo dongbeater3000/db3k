@@ -1,0 +1,12 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+      "item": "minecraft:bone_meal"
+    },
+    "block_in": "brown_mushroom",
+    "post": [
+        {
+          "type": "prevent_default"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/ore_block",
+	"textures": {
+		"bottom": "block/copper_block_bottom",
+		"side": "block/copper_block_side",
+		"top": "block/copper_block",
+		"particle": "block/copper_block"
+	}
+}

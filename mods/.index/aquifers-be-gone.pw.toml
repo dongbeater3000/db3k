@@ -1,0 +1,16 @@
+filename = 'aquifers-be-gone-forge-1.19.2-1.2.0.jar'
+name = 'Aquifers Be Gone'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a53d4421a41293d7ee6dbe5080ccbcb7f02e76d7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6475343
+project-id = 1254406

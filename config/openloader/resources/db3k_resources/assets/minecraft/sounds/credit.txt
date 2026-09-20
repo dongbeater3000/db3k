@@ -1,0 +1,3 @@
+Various old sound effects updated by: zoey#3955
+Other Sound effects from various Mojang projects (MCD, MCE, etc)
+Additional sound effects from https://www.zapsplat.com

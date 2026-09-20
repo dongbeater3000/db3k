@@ -1,0 +1,16 @@
+filename = 'InvMove-0.9.3+1.19.4-Forge.jar'
+name = 'InvMove'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2', '1.19.3', '1.19.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '436b60291a5b53ecafbc353953eeb8b545c129e5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7418953
+project-id = 581854

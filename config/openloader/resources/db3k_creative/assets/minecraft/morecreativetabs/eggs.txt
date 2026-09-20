@@ -1,0 +1,27 @@
+{
+  "tab_enabled": true,
+  "tab_name": "spawn",
+  "tab_stack": { "name": "minecraft:zombie_spawn_egg"},
+  "tab_items": [
+    {"name": "minecraft:command_block","hide_old_tab": true},
+    {"name": "minecraft:structure_block","hide_old_tab": true},
+    {"name": "minecraft:jigsaw","hide_old_tab": true},
+    {"name": "minecraft:spawner","hide_old_tab": true},
+    {"name": "minecraft:ender_chest","hide_old_tab": true},
+    {"name": "minecraft:barrier","hide_old_tab": true},
+    {"name": "minecraft:structure_void","hide_old_tab": true},
+    {"name": "minecraft:debug_stick","hide_old_tab": true},
+    {"name": "minecraft:air"},
+
+    {"name": "minecraft:chicken_spawn_egg","hide_old_tab": true},
+    {"name": "minecraft:cow_spawn_egg","hide_old_tab": true},
+    {"name": "minecraft:creeper_spawn_egg","hide_old_tab": true},
+    {"name": "minecraft:pig_spawn_egg","hide_old_tab": true},
+    {"name": "minecraft:sheep_spawn_egg","hide_old_tab": true},
+    {"name": "minecraft:skeleton_spawn_egg","hide_old_tab": true},
+    {"name": "minecraft:slime_spawn_egg","hide_old_tab": true},
+    {"name": "minecraft:spider_spawn_egg","hide_old_tab": true},
+    {"name": "minecraft:squid_spawn_egg","hide_old_tab": true},
+    {"name": "minecraft:zombie_spawn_egg","hide_old_tab": true}
+  ]
+}

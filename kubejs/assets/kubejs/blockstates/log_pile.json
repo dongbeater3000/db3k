@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "kubejs:block/log_pile",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "kubejs:block/log_pile",
+      "y": 90
+    },
+    "facing=east": {
+      "model": "kubejs:block/log_pile",
+        "y": 180
+    },
+    "facing=west": {
+      "model": "kubejs:block/log_pile",
+      "y": 180
+    }
+  }
+}

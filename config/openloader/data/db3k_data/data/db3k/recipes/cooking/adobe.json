@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:dirt"
+    },
+    "result": "kubejs:adobe",
+    "experience": 0,
+    "cookingtime": 200
+}

@@ -1,0 +1,35 @@
+{
+    "feature": "db3k:ocean_sand",
+    "placement": [
+      {
+        "type": "count",
+        "count": 16
+      },
+      {
+        "type": "minecraft:in_square"
+      },
+      {
+        "type": "minecraft:heightmap",
+        "heightmap": "OCEAN_FLOOR_WG"
+      },
+      {
+        "type": "minecraft:height_range",
+        "height": {
+          "type": "minecraft:uniform",
+          "max_inclusive": {
+            "absolute": 60
+          },
+          "min_inclusive": {
+            "absolute": 32
+          }
+        }
+      },
+      {
+        "type": "minecraft:block_predicate_filter",
+        "predicate": {
+          "type": "minecraft:matching_fluids",
+          "fluids": "minecraft:water"
+        }
+      }
+    ]
+  }

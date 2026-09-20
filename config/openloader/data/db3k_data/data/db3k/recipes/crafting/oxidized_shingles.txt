@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#V#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "kubejs:shingles"
+        },
+        "V":{
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+        "item": "kubejs:oxidized_shingles",
+        "count": 4
+    }
+}

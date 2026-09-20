@@ -1,0 +1,16 @@
+filename = 'DripSounds-1.19-0.3.0.jar'
+name = '[LEGACY] Drip Sounds (Forge)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2', '1.19.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a730f6e211f068816f3637c188af73d5bec3a17f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3922079
+project-id = 390986

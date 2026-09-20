@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 8,
+    "description": "Adds a second stage to tree growth"
+  }
+}

@@ -1,0 +1,16 @@
+filename = 'OpenLoader-Forge-1.19.2-15.0.2.jar'
+name = 'OpenLoader'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = '0a0a2736d7bb7028a66b3587d23bf03a8dda545d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4745857
+project-id = 354339

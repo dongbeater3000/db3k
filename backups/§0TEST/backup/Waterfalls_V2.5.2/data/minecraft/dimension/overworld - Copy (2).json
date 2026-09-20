@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:overworld",
+  "generator": {
+    "biome_source": {
+      "biomes": [
+        {
+          "parameters": {
+            "weirdness": [
+			  0.7,
+			  0.933
+            ],
+            "continentalness": [
+			  -0.11,
+			  0.5
+            ],
+            "erosion": [
+			  0.85,
+			  0.95
+            ],
+            "temperature": [
+              -0.5,
+              -0.15
+            ],
+            "humidity": [
+              -1,
+              -0.7
+            ],
+            "depth": [
+              0,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
+        }
+      ],
+      "type": "minecraft:multi_noise"
+    },
+    "settings": "minecraft:overworld",
+    "type": "minecraft:noise"
+  }
+}

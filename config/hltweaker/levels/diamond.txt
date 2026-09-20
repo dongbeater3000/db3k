@@ -1,0 +1,6 @@
+{
+    "level": 4,
+    "better": ["minecraft:netherite"],
+    "worse": ["hltweaker:noble"],
+    "color": "blue"
+}

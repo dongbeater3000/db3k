@@ -1,0 +1,63 @@
+{
+  "type": "minecraft:block",
+  "functions": [],
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "kubejs:turnip_seed",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.05
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:wheat_seeds",
+              "functions": [],
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.3
+                }
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:match_tool",
+              "predicate": {
+                "tag": "forge:tools/hoes"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:grass",
+          "conditions": [
+            {
+              "condition": "minecraft:match_tool",
+              "predicate": {
+                "enchantments": [
+                  {
+                    "enchantment": "minecraft:silk_touch"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "functions": [],
+      "conditions": []
+    }
+  ]
+}

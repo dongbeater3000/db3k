@@ -1,0 +1,20 @@
+type = user_variables
+
+variable {
+  name = lighting_type
+  value = Classic
+  reset_on_launch = false
+}
+
+variable {
+  name = lighting_type"
+  value = Classic
+  reset_on_launch = false
+}
+
+variable {
+  name = test
+  value = 
+  reset_on_launch = false
+}
+

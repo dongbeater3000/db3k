@@ -1,0 +1,8 @@
+{
+  "general": {
+    "engines": 0,
+    "volume": 1,
+    "useSoundMasterSource": false,
+    "scanStepAmount": 100
+  }
+}

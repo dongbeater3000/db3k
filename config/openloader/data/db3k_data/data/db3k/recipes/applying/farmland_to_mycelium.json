@@ -1,0 +1,17 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+      "item": "kubejs:mold"
+    },
+    "block_in": "farmland",
+    "post": [
+        {
+          "type": "place",
+          "block": "*"
+        },
+        {
+          "type": "place",
+          "block": "minecraft:mycelium"
+        }
+    ]
+}

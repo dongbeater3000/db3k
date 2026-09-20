@@ -1,0 +1,98 @@
+TIP: Leather armor protects against fire!
+TIP: Chain armor protects against melee damage!
+TIP: Plate armor protects against projectiles!
+TIP: Diamond armor protects against explosions!
+TIP: Armor protection will degrade as the armor is damaged!
+TIP: Scaffolding can be replaced with other blocks!
+TIP: If you break scaffolding it will all fall in one spot!
+TIP: Get to destinations faster with a minecart and rail!
+TIP: Powered minecarts can push other carts!
+TIP: Storage minecarts can transport a lot of items!
+TIP: Diamonds can, rarely, be found very deep underground!
+TIP: Stone in the depths is tougher to mine!
+TIP: Most monsters come out at night. During the day you're safe... probably.
+TIP: Use a hoe to dig up seeds!
+TIP: Spiders wont attack during the day, unless you attack them!
+TIP: Infinite wonders, endless possibilities!
+TIP: Do people actually read these?
+TIP: Are they chickens or ducks?
+TIP: Animals are attracted to light!
+TIP: Monsters are attracted to darkness!
+TIP: Deep caves get really dark, dont forget torches!
+TIP: Check out the super deluxe skin pack!
+TIP: Some animals will follow you if you have crops in your hand!
+TIP: Digging straight down is a bad idea!
+TIP: Stone doors can be locked when powered!
+TIP: Rope coils can be used to descend rapidly!
+TIP: You'll drop a bag with your items when you die!
+TIP: Eat food to heal. The better the food, the more health you get!
+TIP: All metals can be turned into useful tools!
+TIP: Heat from light-sources can melt snow and ice!
+TIP: A single bucket of lava can smelt 100 items!
+TIP: A pair sticks will smelt exactly one item!
+TIP: Want more customizaton? Check out the texture packs!
+TIP: Diamond tools are very durable!
+TIP: Named animals wont disappear!
+TIP: Don't go mining unprepared!
+TIP: Sponges can suck up lots of water!
+TIP: There is lots of lava in the depths!
+TIP: You can plant acorns to grow new trees!
+TIP: Keep getting lost? Try a map or a compass!
+TIP: Maps can be expanded by adding more paper at a workbench!
+TIP: Maps can be crafted with paper and a feather!
+TIP: Combining a filled map with an empty map will copy it!
+TIP: An Atlas can store a lot of maps!
+TIP: You can find lots of mushrooms underground!
+TIP: Furnish your home with some tables and chairs!
+TIP: Creepers were born from a coding bug!
+TIP: Placing two chests side by side will make one large chest!
+TIP: Lots of plants can be turned into dyes!
+TIP: Monsters wont attack you on easy mode!
+TIP: Zombies can break down doors on hard mode!
+TIP: Put a chicken on your head and you can glide down to safety!
+TIP: Build a shelter by nightfall!
+TIP: There's no fighting the passage of time!
+TIP: Slimes will spawn in deep caves!
+TIP: Slimes can be fed certain items to produce more slime!
+TIP: Other players can loot your chests! Hide your valuables!
+TIP: Be careful, fire spreads really fast!
+TIP: If fire burns for long enough without spreading, it never will!
+TIP: Players can connect to your world if you give them the link!
+TIP: Different ores can be found at different depths!
+TIP: The original name for Minecraft was Cave Game!
+TIP: There might be an update to this eventually!
+TIP: Flint and Steel can light furnaces, but they wont smelt anything!
+TIP: Cooked food heals more than raw food!
+TIP: Right click snow layers with a shovel for a snowball!
+TIP: These tips update every 10 seconds!
+TIP: What does DB3K stand for anyways?
+TIP: Use a pickaxe on rocky dirt for cobblestone, or a shovel for dirt!
+TIP: Use the right tool for the job!
+TIP: There may be multiple ways to obtain the same items!
+TIP: After leaving water you will continue to be wet for a few seconds!
+TIP: Items will start blinking before they disappear, be quick!
+TIP: Snow will fall in winter but melts after the season changes!
+TIP: Ore chunks can be smelted into bars at a furnace!
+TIP: Watch out, Zombies can occasionally carry armor and weapons!
+TIP: Arrows shot by Skeletons cannot be retrieved!
+TIP: Tie rope to an arrow to place them from afar!
+TIP: Copper can be made into machinery, but it'll need to be powered!
+TIP: Cloth, wood, glass, and shingles can be dyed any color you like!
+TIP: Bombs will damage mobs, but not blocks!
+TIP: Pigs can be ridden with saddles and a baited rod!
+TIP: Tools can be repaired by combining them together!
+TIP: There is no sky dimension!
+TIP: Your inventory space is limited, manage your resources wisely!
+TIP: Cacti can be found growing on beaches!
+TIP: Compasses will point towards your respawn point!
+TIP: Clocks will show you what time of day it is!
+TIP: Depth gauges will show you how deep you are in the world!
+TIP: Calendars will show you what season it is!
+TIP: Name tags can be customized from your hotbar!
+TIP: Pistons can move up to 24 blocks at once!
+TIP: Includes music by C418!
+TIP: Some spawners will summon a horde of monsters that drop extra loot!
+TIP: Seasons will last 15 days each!
+TIP: Right click primed TNT to defuse it!
+TIP: If ice is placed under crops, they wont grow!
+TIP: ...Are we there yet?

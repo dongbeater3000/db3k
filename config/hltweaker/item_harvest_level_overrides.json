@@ -1,0 +1,26 @@
+{
+    "caverns_and_chasms:silver_pickaxe": {
+        "minecraft:mineable/pickaxe": "minecraft:iron" 
+    },
+    "caverns_and_chasms:silver_axe": {
+        "minecraft:mineable/axe": "minecraft:iron" 
+    },
+    "caverns_and_chasms:silver_shovel": {
+        "minecraft:mineable/shovel": "minecraft:iron" 
+    },
+    "caverns_and_chasms:silver_hoe": {
+        "minecraft:mineable/hoe": "minecraft:iron" 
+    },
+    "minecraft:golden_pickaxe": {
+        "minecraft:mineable/pickaxe": "minecraft:iron" 
+    },
+    "minecraft:golden_axe": {
+        "minecraft:mineable/axe": "minecraft:iron" 
+    },
+    "minecraft:golden_shovel": {
+        "minecraft:mineable/shovel": "minecraft:iron" 
+    },
+    "minecraft:golden_hoe": {
+        "minecraft:mineable/hoe": "minecraft:iron" 
+    }
+}

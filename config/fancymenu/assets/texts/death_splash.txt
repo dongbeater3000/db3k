@@ -1,0 +1,139 @@
+...Oops!
+...Not again!
+...Score: &&re0
+...Mission failed!
+...Good try!
+...Try again?
+...Skill issue?
+...Better luck next time!
+...Too hard?
+...What a way to go!
+...Continue?
+...That had to hurt!
+...You failed!
+...Wasted!
+...Was it lag?
+...Embarrassing!
+...It's over!
+...Wrecked!
+...Insert coin!
+...Choked!
+...Retry?
+...Lets try that again!
+...Lol!
+...YOU DIED!
+...Yikes!
+...Gg ez!
+...Good job!
+...One-shot!
+...Shameful!
+...Ouch!
+...Yeouch!
+...What happened?
+...Too bad!
+...Unlucky!
+...No kill cam?
+...Run that back!
+...Thats the way it goes!
+...You blew it!
+...Rage quit!
+...Oof!
+...Could've been worse!
+...So long!
+...That's it??
+...Again?
+...It was just a scratch!
+...FIN.
+...Really?
+...Awkward!
+...Vanquished!
+...Destroyed!
+...Slaughtered!
+...Uh...
+...Unfortunate!
+...That wasn't supposed to happen...
+...My bad!
+...Here we go again!
+...Well...
+...Brutality!
+...What a show!
+...Pls nerf...
+...Fix your mod!
+...Dont just stand there!
+...Try dodging!
+...Misclick?
+...Wrong button!
+.../gamemode 1
+...How'd that happen?
+...Who put that there?
+...Back to the lobby!
+...K.O.!
+...Wipeout!
+...Oh.
+...Come back?
+...That was bad!
+...Wont make that mistake again!
+...You are dead!
+...Calling it quits?
+...Goodbye!
+...That's rough!
+...Get up!
+...What a blunder!
+...Not your best moment!
+...RIP!
+...No chance!
+...You tripped!
+...The End!
+...Fumbled!
+...Humbled!
+...So close!
+...Uh-oh!
+...Down for the count!
+...Adios!
+...Adieu!
+...Finito!
+...Sayonara!
+...Try easy mode?
+...Try peaceful mode?
+...What???
+...Was it worth it?
+...They got you good!
+...You had one job!
+...Ashes to ashes!
+...See you next time!
+...Mama mia!
+...It was a good run!
+...Eliminated!
+...Outplayed!
+...Rookie move!
+...That's how the cookie crumbles!
+...Did you even try?
+...Surprise!
+...Press 'R' to try again!
+...Ever get deja vu?
+...You cannot give up just yet!
+...You're gonna be alright!
+...Why?
+...Is this some kind of joke?
+...Hold on!
+...All apologies!
+...Just one more game!
+...Another one bites the dust!
+...PWND!
+...Thats it?
+...Epic fail!
+...You blacked out!
+...Close, but no cigar!
+...You'll get 'em next time!
+...Call someone you love today!
+...Tomorrow is a new beginning!
+...Thats okay!
+...Boxed like a fish!
+...Back so soon?
+...Return of Ganon!
+...IT APPEARS YOU HAVE REACHED AN END
+...WILL YOU TRY AGAIN?
+...This is not your fate!
+...Please, don't give up!
+...That all you got!?
+...It's good to take breaks, sometimes!

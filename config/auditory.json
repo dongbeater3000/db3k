@@ -1,0 +1,59 @@
+{
+  "block_sounds": {
+    "blockSoundsConfig": {
+      "overworldStoneVariantSounds": false,
+      "clayBrickSounds": true,
+      "dirtSounds": false,
+      "goldSounds": true,
+      "leafSounds": false,
+      "lilyPadSounds": true,
+      "metalSounds": true,
+      "magmaSounds": false,
+      "obsidianSounds": true,
+      "plantSounds": false,
+      "rawOreBlockSounds": true,
+      "redstoneWireSounds": true,
+      "shulkerBoxSounds": true,
+      "smallObjectSounds": false,
+      "spawnerSounds": false,
+      "stoneBrickSounds": true,
+      "stoneOreSounds": true,
+      "stringSounds": true,
+      "terracottaSounds": true,
+      "jukeboxWoodSounds": true,
+      "mushroomSounds": false,
+      "purpurSounds": false,
+      "chorusPlantSounds": false,
+      "iceSounds": false,
+      "gourdSounds": true
+    },
+    "falling_in_place_sound": false,
+    "jukebox_sounds": true,
+    "flower_pot_sounds": false,
+    "cake_eating_sounds": false
+  },
+  "item_sounds": {
+    "ender_pearl_sounds": false,
+    "spawn_egg_sounds": false,
+    "lead_sounds": false,
+    "boat_sounds": true,
+    "minecart_sounds": true
+  },
+  "weapon_sounds": {
+    "fist_swinging_sounds": false,
+    "sword_swinging_sounds": false,
+    "axe_swinging_sounds": false,
+    "pickaxe_swinging_sounds": false,
+    "shovel_swinging_sounds": false,
+    "hoe_swinging_sounds": false,
+    "trident_swinging_sounds": false,
+    "shear_swinging_sounds": false,
+    "bow_pullback_sounds": true,
+    "trident_pullback_sounds": false,
+    "shield_blocking_sounds": false
+  },
+  "misc_sounds": {
+    "silverfish_step_sounds": false,
+    "item_drop_sounds": true
+  }
+}

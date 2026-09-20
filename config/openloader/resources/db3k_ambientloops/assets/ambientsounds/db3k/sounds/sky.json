@@ -1,0 +1,11 @@
+[
+    {
+        "name": "wind-ambience",
+        "files": [
+            "kubejs:loops.wind"
+        ],
+        "outside": true,
+        "transition": 400,
+        "volume": 0.25
+    }
+]

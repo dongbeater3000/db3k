@@ -1,0 +1,16 @@
+filename = 'enchantato_loot-1.19.2-0.0.3.jar'
+name = 'Enchantato - Loot'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '60d96f40d72b954d16c8a194c41ae376e482b3b2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4787145
+project-id = 919380

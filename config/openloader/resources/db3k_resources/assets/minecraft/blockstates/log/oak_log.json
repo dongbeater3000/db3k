@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "minecraft:block/oak_log_horizontal",
+      "x": 0,
+      "y": 0,
+      "uvlock": true
+    },
+    "axis=y": {
+      "model": "minecraft:block/oak_log",
+      "uvlock": true
+    },
+    "axis=z": {
+      "model": "minecraft:block/oak_log_horizontal",
+      "x": 0,
+      "uvlock": true
+    }
+  }
+}

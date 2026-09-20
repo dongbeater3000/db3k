@@ -1,0 +1,12 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+      "item": "caverns_and_chasms:silver_shovel"
+    },
+    "block_in": "mycelium",
+    "post": [
+        {
+          "type": "prevent_default"
+        }
+    ]
+}

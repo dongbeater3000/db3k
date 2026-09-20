@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WWW",
+        "WWW",
+        "WWW"
+    ],
+    "key": {
+        "W": {
+            "item": "kubejs:cobalt"
+        }
+    },
+    "result": {
+        "item": "minecraft:lodestone",
+        "count": 1
+    }
+}

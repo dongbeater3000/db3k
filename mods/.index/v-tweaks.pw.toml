@@ -1,0 +1,16 @@
+filename = 'VTweaks-1.19.2-4.0.13.jar'
+name = 'V-Tweaks'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ed26d2c80d70e4ddccae15460fbaa7e38256e666'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4902652
+project-id = 238048

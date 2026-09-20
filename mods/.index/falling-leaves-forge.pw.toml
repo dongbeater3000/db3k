@@ -1,0 +1,16 @@
+filename = 'Fallingleaves-1.19.1-2.0.0-alpha+20221129-2000.jar'
+name = 'Falling Leaves'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = '80155f30fb788efb3c8b534a52767a022befe9f7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4124035
+project-id = 463155

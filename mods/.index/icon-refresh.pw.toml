@@ -1,0 +1,16 @@
+filename = 'iconrefresh-1.19.2-1.0.jar'
+name = 'Icon Refresh'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '682c5195fcc5d3c5a89eb156ebf667302f7b53d3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4396816
+project-id = 826859

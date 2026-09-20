@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 9,
+  "currentVersion": "1.0.2",
+  "modpackName": "DB3K",
+  "modpackAuthor": "DB3K",
+  "modpackReleaseType": "stable",
+  "updateCheckerId": "https://raw.githubusercontent.com/dongbeater3000/db3k/refs/heads/main/updatechecker/",
+  "advanced": {
+    "bccEnabled": false,
+    "expandButton": false,
+    "updateCheckerType": 2,
+    "retroWarning": false,
+    "addButton": true,
+    "modpackMods": []
+  }
+}

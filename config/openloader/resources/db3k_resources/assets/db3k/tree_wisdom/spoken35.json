@@ -1,0 +1,7 @@
+{
+    "type": "talked_to",
+    "trust_required": 50,
+    "text": [
+			"$random_future_data will be rather interesting, I reckon"
+		]
+  }

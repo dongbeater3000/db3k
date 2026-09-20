@@ -1,0 +1,15 @@
+// ForgeEvents.onEvent("net.minecraftforge.event.level.PistonEvent$Pre", event => {
+// 	global.pistonBlockCrush(event)
+// })
+
+// // This doesnt work because the piston wont do anything if its trying to push into obsidian, which I hadn't considered.
+// global.pistonBlockCrush = (event) => {
+// 	if(event.getPistonMoveType().isExtend) {
+// 		let checkPos = event.pos.mutable().move(event.getDirection(), 2)
+// 		let checkBlock = event.level.getBlockState(checkPos).block
+// 		if(checkBlock.getId() == 'minecraft:obsidian'){
+// 			let crushBlock = event.pos.mutable().move(event.getDirection(), 1)
+// 			event.level.destroyBlock(crushBlock, true)
+// 		}
+// 	}
+// }

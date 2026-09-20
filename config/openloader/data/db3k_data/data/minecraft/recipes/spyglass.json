@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " g",
+        "g "
+    ],
+    "key": {
+        "g": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:spyglass",
+        "count": 1
+    }
+}

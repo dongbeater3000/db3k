@@ -1,0 +1,61 @@
+{
+	"type" : "minecraft:chest",
+	"pools" : [
+		{
+		"rolls" : {
+			"min" : 1.0,
+			"max" : 1.0,
+			"type" : "minecraft:uniform"
+		},
+		"entries" : [
+			{
+				"type" : "minecraft:item",
+				"weight" : 1,
+				"name" : "minecraft:chainmail_helmet",
+				"functions": [{
+					"function": "set_damage",
+					"damage": {
+						"min": 0.0,
+						"max": 0.49
+					}
+				}]
+			},
+			{
+				"type" : "minecraft:item",
+				"weight" : 1,
+				"name" : "minecraft:chainmail_chestplate",
+				"functions": [{
+					"function": "set_damage",
+					"damage": {
+						"min": 0.0,
+						"max": 0.49
+					}
+				}]
+			},
+			{
+				"type" : "minecraft:item",
+				"weight" : 1,
+				"name" : "minecraft:chainmail_leggings",
+				"functions": [{
+					"function": "set_damage",
+					"damage": {
+						"min": 0.0,
+						"max": 0.49
+					}
+				}]
+			},
+			{
+				"type" : "minecraft:item",
+				"weight" : 1,
+				"name" : "minecraft:chainmail_boots",
+				"functions": [{
+					"function": "set_damage",
+					"damage": {
+						"min": 0.0,
+						"max": 0.49
+					}
+				}]
+			}]
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/ore_block",
+	"textures": {
+		"bottom": "caverns_and_chasms:block/silver_block_bottom",
+		"side": "caverns_and_chasms:block/silver_block_side",
+		"top": "caverns_and_chasms:block/silver_block",
+		"particle": "caverns_and_chasms:block/silver_block"
+	}
+}

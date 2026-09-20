@@ -1,0 +1,10 @@
+{
+    "values": [
+        "supplementaries:gold_door",
+        "supplementaries:gold_trapdoor",
+        "minecraft:piston",
+        "minecraft:sticky_piston",
+        "minecraft:redstone_lamp"
+    ],
+    "replace": false
+}

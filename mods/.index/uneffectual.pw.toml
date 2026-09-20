@@ -1,0 +1,16 @@
+filename = 'uneffectual-1.19.2-1.1.0.2.jar'
+name = 'Uneffectual'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e5b2e8ae7b6cf9038e37c7fe01490a2ba9faf63f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4112136
+project-id = 624200

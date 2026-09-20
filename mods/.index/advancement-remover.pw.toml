@@ -1,0 +1,16 @@
+filename = 'advancementremover-1.0.jar'
+name = 'Advancement Remover'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '935734a7f898e9f46d330cee509e696e99c71d61'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4876485
+project-id = 888753

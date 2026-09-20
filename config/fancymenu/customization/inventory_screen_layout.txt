@@ -1,0 +1,67 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = inventory_screen
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1744555881326
+  is_enabled = false
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:6a79ed01-b9fb-4ef9-b4a4-a08a02e37822-1744566009797] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  button_element_executable_block_identifier = 0c85f9c7-64c4-4bb9-9c85-9b49e7a0cc00-1736202351591
+  [executable_block:0c85f9c7-64c4-4bb9-9c85-9b49e7a0cc00-1736202351591][type:generic] = [executables:]
+  backgroundnormal = [source:local]/config/fancymenu/assets/icons/compass.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/icons/compass.png
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  description = Coordinates
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 138a6d75-e6c5-4cf0-af5b-03b198a3bf72-1736202351591
+  [loading_requirement_container_meta:138a6d75-e6c5-4cf0-af5b-03b198a3bf72-1736202351591] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = da6b3dfd-7ff9-42ee-83d0-b407820e27bc-1736202351591
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1029
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -88
+  y = -93
+  width = 10
+  height = 10
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 372c2c54-7d0d-4505-85d3-fedea399b0ec-1736202351591
+  [loading_requirement_container_meta:372c2c54-7d0d-4505-85d3-fedea399b0ec-1736202351591] = [groups:][instances:]
+}
+

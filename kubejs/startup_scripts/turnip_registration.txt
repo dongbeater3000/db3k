@@ -1,0 +1,38 @@
+StartupEvents.registry('block', event => {
+  event.create("turnip", "crop")
+    .age(7, builder => {
+      builder
+        .shape(0, 0, 0, 0, 16, 2, 16)
+        .shape(1, 0, 0, 0, 16, 3, 16)
+        .shape(2, 0, 0, 0, 16, 4, 16)
+        .shape(3, 0, 0, 0, 16, 5, 16)
+        .shape(4, 0, 0, 0, 16, 6, 16)
+        .shape(5, 0, 0, 0, 16, 7, 16)
+        .shape(6, 0, 0, 0, 16, 8, 16)
+        .shape(7, 0, 0, 0, 16, 9, 16)
+
+    })
+    .survive((state, level, pos) => {
+      const FARMLAND = Java.loadClass('net.minecraft.world.level.block.FarmBlock')
+      let blockState = level.getBlockState(pos.below())
+      let mcBlock = blockState.block
+      if (mcBlock instanceof FARMLAND) {
+        return true
+      }
+      else return false
+    })
+    .growTick((tickevent) => 5)
+    .dropSeed(false)
+    .texture(0, "kubejs:block/turnip_stage0")
+    .texture(1, "kubejs:block/turnip_stage1")
+    .texture(2, "kubejs:block/turnip_stage2")
+    .texture(3, "kubejs:block/turnip_stage3")
+    .texture(4, "kubejs:block/turnip_stage4")
+    .texture(5, "kubejs:block/turnip_stage5")
+    .texture(6, "kubejs:block/turnip_stage6")
+    .texture(7, "kubejs:block/turnip_stage7")
+    .tagBlock('minecraft:mineable/hoe')
+    .item((seedItem) => {
+            seedItem.texture("kubejs:item/turnip")
+    })
+})

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "B",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:minecart"
+        },
+        "B": {
+            "item": "farmersdelight:basket"
+        }
+    },
+    "result": {
+        "item": "minecraft:hopper_minecart",
+        "count": 1
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "": [
+        {"model": "kubejs:block/coral_black"},
+        {"model": "kubejs:block/coral_blue"},
+        {"model": "kubejs:block/coral_cyan"},
+        {"model": "kubejs:block/coral_gray"},
+        {"model": "kubejs:block/coral_green"},
+        {"model": "kubejs:block/coral_indigo"},
+        {"model": "kubejs:block/coral_lime"},
+        {"model": "kubejs:block/coral_magenta"},
+        {"model": "kubejs:block/coral_orange"},
+        {"model": "kubejs:block/coral_pink"},
+        {"model": "kubejs:block/coral_purple"},
+        {"model": "kubejs:block/coral_red"},
+        {"model": "kubejs:block/coral_teal"},
+        {"model": "kubejs:block/coral_violet"},
+        {"model": "kubejs:block/coral_white"},
+        {"model": "kubejs:block/coral_yellow"}
+    ]
+  }
+}

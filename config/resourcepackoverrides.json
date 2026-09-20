@@ -1,0 +1,59 @@
+{
+    "schema_version": 1,
+    "failed_reloads_per_session": 5,
+    "default_overrides": {
+      "force_compatible": true
+    },
+    "pack_overrides": {
+      "1": [
+        "file/Basic Nether Ores 16x.zip",
+        "file/JEMs Base Resources-0.1.1.zip",
+        "file/Quark Programmer Art.zip",
+        "premium_wood:legacy_pack",
+        "programer_art",
+        "file/JEMs Base Resources-0.2.2.zip",
+        "spelunkery:better_vanilla_gems",
+        "spelunkery:emissive_better_vanilla_ores",
+        "spelunkery:emissive_ores",
+        "spelunkery:unlit_redstone_ores",
+        "supplementaries:darker_ropes",
+        "builtin/aether_125_art",
+        "builtin/aether_b173_art",
+        "builtin/aether_colorblind",
+        "builtin/default_ctm_resources",
+        "builtin/glass_pane_fix_resources",
+        "lowerres",
+        "black_icons",
+        "classic_icons",
+        "white_icons"
+      ],
+      "2": [
+        "vanila",
+        "mod_resources",
+        "Forgery",
+        "Forgery grayscale",
+        "Supplementaries Generated Pack",
+        "contenttweaker:user/client_resources",
+        "contenttweaker",
+        "dynamic_asset_generator:client",
+        "quark:emote_resources",
+        "resources/db3k_music.zip",
+        "resources/db3k_cbs.zip",
+        "resources/db3k_fog.zip",
+        "resources/db3k_clouds.zip",
+        "resources/db3k_creative.zip",
+        "resources/db3k_paintings.zip",
+        "resources/db3k_resources.zip"
+      ],
+      "$1": {
+        "hidden": true,
+        "required": false
+      },
+      "$2": {
+        "hidden": true,
+        "required": true,
+        "fixed_position": true,
+        "default_position": "BOTTOM"
+      }
+   }
+}

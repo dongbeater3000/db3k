@@ -1,0 +1,9 @@
+{
+  "replace": false,
+	"values": [
+    "minecraft:oak_log",
+    "kubejs:log_pile",
+    "#minecraft:planks",
+    "minecraft:oak_leaves"
+  ]
+}

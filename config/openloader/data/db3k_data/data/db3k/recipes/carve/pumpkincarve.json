@@ -1,0 +1,20 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+      "tag": "forge:tools/swords"
+    },
+    "block_in": "pumpkin",
+    "post": [
+        {
+          "type": "damage_item"
+        },
+        {
+          "type": "place",
+          "block": "*"
+        },
+        {
+          "type": "place",
+          "block": "minecraft:carved_pumpkin"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "M#M",
+        "#M#",
+        "M#M"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:stick"
+        },
+        "M": {
+            "item": "minecraft:paper"
+        }
+    },
+    "result": {
+        "item": "kubejs:paper_wall",
+        "count": 4
+    }
+}

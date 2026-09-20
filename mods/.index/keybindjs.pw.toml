@@ -1,0 +1,16 @@
+filename = 'KeyBindJS-2001-2.2.3.jar'
+name = 'KeyBindJS'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2', '1.19.4', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '0e04c79b7f5a9a0e273baad6240bdebde3f58773'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6462539
+project-id = 1212200

@@ -1,0 +1,5 @@
+
+[logbegone]
+	phrases = ["Disconnecting VANILLA connection attempt", "Channels ", "Error while gathering tooltip "]
+	regex = ["Disconnecting VANILLA connection attempt", "Channels ", "Error while gathering tooltip "]
+

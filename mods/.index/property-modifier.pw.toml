@@ -1,0 +1,16 @@
+filename = 'propertymodifier-1.19.2-0.3.3.jar'
+name = 'Property Modifier'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4e4f4d9c468ae6d9a5d8d003dcb23f03c40c0dbf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4553718
+project-id = 474822

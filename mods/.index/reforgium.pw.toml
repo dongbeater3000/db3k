@@ -1,0 +1,16 @@
+filename = 'reforgium-1.0.12a.jar'
+name = 'Reforgium'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '24f47100c2c4b78c9ffb7e79535e4799c2e274ab'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4505759
+project-id = 853424

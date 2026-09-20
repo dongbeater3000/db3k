@@ -1,0 +1,23 @@
+[
+    {
+        "name": "cave",
+        "dimension-names": [
+            "deep_dark",
+            "underground"
+        ],
+        "biome-selector": {
+            "always": false
+        }
+    },
+    {
+        "name": "surface",
+        "surface-selector": {
+            "regions": [
+                "surface"
+            ]
+        },
+        "biome-selector": {
+            "always": true
+        }
+    }
+]

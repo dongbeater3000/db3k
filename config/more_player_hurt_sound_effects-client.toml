@@ -1,0 +1,5 @@
+#Allowed Values: DEFAULT, CLASSIC, CLASSIC_TWO, CLASSIC_THREE
+"Type of hurt sound" = "CLASSIC"
+#Range: -5.0 ~ 5.0
+"How high or low of a pitch you want your hurt sound" = 1.0
+

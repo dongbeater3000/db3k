@@ -1,0 +1,88 @@
+{
+  "spawner.spawn": {
+    "sounds": [
+      "kubejs:misc/spawner"
+    ],
+    "subtitle": "Monster spawns"
+  },
+  "generic.menutick": {
+    "sounds": [
+      "kubejs:misc/menutick"
+    ]
+  },
+  "generic.menuscroll": {
+    "sounds": [
+      "kubejs:misc/menuscroll"
+    ]
+  },
+  "generic.menuopen": {
+    "sounds": [
+      "kubejs:misc/menuopen"
+    ]
+  },
+  "generic.menuclose": {
+    "sounds": [
+      "kubejs:misc/menuclose"
+    ]
+  },
+  "loops.bird": {
+    "sounds": [
+      {
+        "name": "kubejs:loops/bird",
+        "stream": true,
+        "preload": true
+      }
+    ],
+    "category": "ambient"
+  },
+  "loops.chimes": {
+    "sounds": [
+      {
+        "name": "kubejs:loops/chimes",
+        "stream": true,
+        "preload": true
+      }
+    ],
+    "category": "ambient"
+  },
+  "loops.crickets": {
+    "sounds": [
+      {
+        "name": "kubejs:loops/crickets",
+        "stream": true,
+        "preload": true
+      }
+    ],
+    "category": "ambient"
+  },
+  "loops.ocean": {
+    "sounds": [
+      {
+        "name": "kubejs:loops/ocean",
+        "stream": true,
+        "preload": true
+      }
+    ],
+    "category": "ambient"
+  },
+  "loops.waterfall": {
+    "sounds": [
+      {
+        "name": "kubejs:loops/waterfall",
+        "stream": true,
+        "preload": true
+      }
+    ],
+    "category": "ambient"
+  },
+  "loops.wind": {
+    "sounds": [
+      {
+        "name": "kubejs:loops/wind",
+        "stream": true,
+        "preload": true
+      }
+    ],
+    "category": "ambient"
+  }
+}

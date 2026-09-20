@@ -1,0 +1,25 @@
+{
+	"type" : "minecraft:chest",
+	"pools" : [
+		{
+			"rolls" : 1,
+			"entries" : [
+				{
+					"type" : "minecraft:item",
+					"weight" : 4,
+					"name" : "kubejs:coin"
+				},
+				{
+					"type" : "minecraft:item",
+					"weight" : 1,
+					"name" : "kubejs:ring"
+				},
+				{
+					"type" : "minecraft:item",
+					"weight" : 2,
+					"name" : "kubejs:amulet"
+				}
+			]
+		}
+	]
+}

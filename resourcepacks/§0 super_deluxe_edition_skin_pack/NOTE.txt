@@ -1,0 +1,40 @@
+==========================================================================================================================
+= ██████╗ ███████╗██╗     ██╗   ██╗██╗  ██╗███████╗    ███████╗██╗  ██╗██╗███╗   ██╗    ██████╗  █████╗  ██████╗██╗  ██╗ =
+= ██╔══██╗██╔════╝██║     ██║   ██║╚██╗██╔╝██╔════╝    ██╔════╝██║ ██╔╝██║████╗  ██║    ██╔══██╗██╔══██╗██╔════╝██║ ██╔╝ =
+= ██║  ██║█████╗  ██║     ██║   ██║ ╚███╔╝ █████╗      ███████╗█████╔╝ ██║██╔██╗ ██║    ██████╔╝███████║██║     █████╔╝  =
+= ██║  ██║██╔══╝  ██║     ██║   ██║ ██╔██╗ ██╔══╝      ╚════██║██╔═██╗ ██║██║╚██╗██║    ██╔═══╝ ██╔══██║██║     ██╔═██╗  =
+= ██████╔╝███████╗███████╗╚██████╔╝██╔╝ ██╗███████╗    ███████║██║  ██╗██║██║ ╚████║    ██║     ██║  ██║╚██████╗██║  ██╗ =
+= ╚═════╝ ╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝    ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝    ╚═╝     ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝ =
+==========================================================================================================================
+
+- This pack adds additional skins that players may choose from, in addition to the default skins or previously used skins!
+- Most of these skins reference other games, pop-culture, and pieces of Minecraft's history!
+- Some skins are redrawn or touched up to fit the artstyle of this modpack, so no matter which you choose you wont look out of place!
+- For the sake of convinence, the skins are sorted into different SERIES based on their design or concept!
+- All included skins are the DEFAULT player model.
+- A few skins make use of the EARS mod (https://www.curseforge.com/minecraft/mc-mods/ears) to add additional detail!
+- A few skins may use the hat layer!
+- Feel free to suggest other skins, I am very open to adding more! 
+- This may be updated occasionally, be sure to check in whenever the modpack updates!
+
+
+
+CREDITS:
+Skins have been pulled from old Legacy skin packs, Omniarchive, and from PlanetMC. A handful were taken directly off of certain player's NAMEMC page.
+I am not able to credit every single individual person who's skin I added to the pack since there are so many, but off the top of my head here are a few that have been pulled directly with minimal alteration.
+If you know of any sources of other skins let me know.
+- Trusso7 
+- MrVirtual
+- kyn
+- Elfwink
+- AqvaFrog
+- Varunax
+- hadowkai
+- Redkevin25
+- Cyprezz 
+- eLGassi 
+- Kurobit
+- Snowman
+- Superdot
+- Droqen
+- JamesMChapman

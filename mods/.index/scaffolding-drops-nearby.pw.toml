@@ -1,0 +1,16 @@
+filename = 'scaffoldingdropsnearby-1.19.2-3.2.jar'
+name = 'Scaffolding Drops Nearby'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e287bc13ec428cda35b11958e2ff4996747310fe'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4963935
+project-id = 412742

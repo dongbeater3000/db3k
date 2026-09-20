@@ -1,0 +1,552 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+{
+	// Generates all block states for all blocks in the registry.
+	"generate_all_known_states": true,
+	// Whether blocks are replaced in existing chunks.
+	"retro_gen": true,
+	/* A map of states that specifies what the "old" block state is and what its "new" block state is.
+	   See "known_states" folder("generate_all_known_states" must be set to true in this config) to see all known block states available for all blocks available in the registry.
+	   Example:
+	    "state_swapper": [
+	    	{
+	    		"new": {
+	    			"Name": "minecraft:birch_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "x"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "z"
+	    			}
+	    		}
+	    	},
+	    	{
+	    		"new": {
+	    			"Name": "minecraft:birch_leaves",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"distance": "7",
+	    				"persistent": "true"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:acacia_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "z"
+	    			}
+	    		}
+	    	},
+	    	{
+	    		"new": {
+	    			"Name": "minecraft:jungle_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "x"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:birch_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "z"
+	    			}
+	    		}
+	    	},
+	    	{
+	    		"new": {
+	    			"Name": "minecraft:jungle_planks",
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:acacia_planks",
+	    			}
+	    		}
+	    	}
+	    ]
+	*/
+	"state_swapper": [
+		{
+	    		"new": {
+	    			"Name": "minecraft:oak_log",
+	    			"Properties": {
+	    				"axis": "y"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_log",
+	    			"Properties": {
+	    				"axis": "z"
+	    			}
+	    		}
+	    	},
+		{
+	    		"new": {
+	    			"Name": "minecraft:oak_log",
+	    			"Properties": {
+	    				"axis": "y"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_log",
+	    			"Properties": {
+	    				"axis": "x"
+	    			}
+	    		}
+	    	},
+		{
+	    		"new": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"half": "bottom",
+					"facing": "north"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"half": "top",
+					"facing": "north"
+	    			}
+	    		}
+	    	},
+		{
+	    		"new": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"half": "bottom",
+					"facing": "south"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"half": "top",
+					"facing": "south"
+	    			}
+	    		}
+	    	},
+		{
+	    		"new": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"half": "bottom",
+					"facing": "east"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"half": "top",
+					"facing": "east"
+	    			}
+	    		}
+	    	},
+		{
+	    		"new": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"half": "bottom",
+					"facing": "west"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"half": "top",
+					"facing": "west"
+	    			}
+	    		}
+	    	},
+		{
+	    		"new": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "straight",
+					"facing": "north"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "inner_left",
+					"facing": "north"
+	    			}
+	    		}
+	    	},
+		{
+	    		"new": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "straight",
+					"facing": "north"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "outer_left",
+					"facing": "north"
+	    			}
+	    		}
+	    	},
+		{
+	    		"new": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "straight",
+					"facing": "north"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "inner_right",
+					"facing": "north"
+	    			}
+	    		}
+	    	},
+		{
+	    		"new": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "straight",
+					"facing": "north"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "outer_right",
+					"facing": "north"
+	    			}
+	    		}
+	    	},
+		{
+	    		"new": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "straight",
+					"facing": "south"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "inner_left",
+					"facing": "south"
+	    			}
+	    		}
+	    	},
+		{
+	    		"new": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "straight",
+					"facing": "south"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "outer_left",
+					"facing": "south"
+	    			}
+	    		}
+	    	},
+		{
+	    		"new": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "straight",
+					"facing": "south"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "inner_right",
+					"facing": "south"
+	    			}
+	    		}
+	    	},
+		{
+	    		"new": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "straight",
+					"facing": "south"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "outer_right",
+					"facing": "south"
+	    			}
+	    		}
+	    	},
+		{
+	    		"new": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "straight",
+					"facing": "east"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "inner_left",
+					"facing": "east"
+	    			}
+	    		}
+	    	},
+		{
+	    		"new": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "straight",
+					"facing": "east"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "outer_left",
+					"facing": "east"
+	    			}
+	    		}
+	    	},
+		{
+	    		"new": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "straight",
+					"facing": "east"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "inner_right",
+					"facing": "east"
+	    			}
+	    		}
+	    	},
+		{
+	    		"new": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "straight",
+					"facing": "east"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "outer_right",
+					"facing": "east"
+	    			}
+	    		}
+	    	},
+		{
+	    		"new": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "straight",
+					"facing": "west"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "inner_left",
+					"facing": "west"
+	    			}
+	    		}
+	    	},
+		{
+	    		"new": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "straight",
+					"facing": "west"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "outer_left",
+					"facing": "west"
+	    			}
+	    		}
+	    	},
+		{
+	    		"new": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "straight",
+					"facing": "west"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "inner_right",
+					"facing": "west"
+	    			}
+	    		}
+	    	},
+		{
+	    		"new": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "straight",
+					"facing": "west"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_stairs",
+	    			"Properties": {
+	    				"shape": "outer_right",
+					"facing": "west"
+	    			}
+	    		}
+	    	}
+],
+	/* A map of blocks that specifies what the "old" block is and what its "new" block is.
+	   Example:
+	   	"swapper": {
+	   		"minecraft:coarse_dirt": "minecraft:dirt",
+	   		"minecraft:diamond_block": "minecraft:emerald_block"
+	   	}
+	*/
+	"swapper": { 
+	"minecraft:end_portal_frame": "minecraft:obsidian",
+	"minecraft:smooth_stone_slab": "minecraft:stone_slab",
+	"minecraft:tall_grass": "minecraft:air",
+	"minecraft:deepslate": "minecraft:stone",
+	"caverns_and_chasms:fragile_deepslate": "caverns_and_chasms:fragile_stone",
+	"minecraft:fern": "minecraft:air",
+	"minecraft:large_fern": "minecraft:air",
+	"minecraft:stone_bricks": "quark:cobblestone_bricks",
+	"minecraft:stone_brick_slab": "quark:cobblestone_bricks",
+	"minecraft:stone_brick_stairs": "quark:cobblestone_bricks",
+	"minecraft:mossy_stone_bricks": "minecraft:mossy_cobblestone",
+	"minecraft:mossy_stone_brick_slab": "minecraft:mossy_cobblestone",
+	"minecraft:mossy_stone_brick_stairs": "minecraft:mossy_cobblestone",
+	"minecraft:cracked_stone_bricks": "quark:cobblestone_bricks",
+	"minecraft:chiseled_stone_bricks": "quark:cobblestone_bricks",
+	"minecraft:infested_stone_bricks": "minecraft:stone",
+	"minecraft:infested_cracked_stone_bricks": "minecraft:stone",
+	"minecraft:infested_chiseled_stone_bricks": "minecraft:stone",
+	"minecraft:red_tulip": "minecraft:poppy",
+	"minecraft:white_tulip": "minecraft:air",
+	"minecraft:orange_tulip": "minecraft:air",
+	"minecraft:allium": "minecraft:air",
+	"minecraft:azure_bluet": "minecraft:air",
+	"minecraft:oxeye_daisy": "minecraft:air",
+	"minecraft:cornflower": "minecraft:blue_orchid",
+	"minecraft:sunflower": "minecraft:air",
+	"minecraft:lily_of_the_valley": "minecraft:air",
+	"minecraft:sea_pickle": "minecraft:water",
+	"minecraft:warped_nylium": "minecraft:netherrack",
+	"minecraft:bee_nest": "minecraft:air",
+	"minecraft:rooted_dirt": "minecraft:dirt",
+	"minecraft:cave_vines": "minecraft:air",
+	"minecraft:cave_vines_plant": "minecraft:air",
+	"minecraft:hanging_roots": "minecraft:air",
+	"minecraft:small_dripleaf": "minecraft:air",
+	"minecraft:glow_lichen": "minecraft:air",
+	"minecraft:peony": "minecraft:air",
+	"minecraft:rose_bush": "minecraft:air",
+	"minecraft:lilac": "minecraft:air",
+	"minecraft:infested_stone": "minecraft:stone",
+	"minecraft:infested_cobblestone": "minecraft:cobblestone",
+	"minecraft:infested_deepslate": "minecraft:stone",
+	"minecraft:wet_sponge": "minecraft:sponge",
+	"minecraft:iron_bars": "minecraft:cobblestone",
+	"supplementaries:wild_flax": "minecraft:air",
+	"minecraft:azalea_leaves": "minecraft:air",
+	"minecraft:flowering_azalea_leaves": "minecraft:air",
+	"minecraft:azalea": "minecraft:poppy",
+	"minecraft:flowering_azalea": "minecraft:dead_bush",
+	"minecraft:grass": "minecraft:air",
+	"minecraft:big_dripleaf": "minecraft:air",
+	"minecraft:big_dripleaf_stem": "minecraft:air",
+	"minecraft:sculk_sensor": "minecraft:air",
+	"minecraft:sculk_shrieker": "minecraft:air",
+	"minecraft:sculk_catalyst": "minecraft:air",
+	"minecraft:emerald_ore": "minecraft:stone",
+	"minecraft:deepslate_lapis_ore": "minecraft:stone",
+	"minecraft:lapis_ore": "minecraft:stone",
+	"minecraft:deepslate_emerald_ore": "minecraft:stone",
+	"minecraft:dark_oak_planks": "minecraft:oak_planks",
+	"minecraft:dark_oak_fence": "minecraft:oak_fence",
+	"spelunkery:granite_coal_ore": "minecraft:coal_ore",
+	"spelunkery:granite_iron_ore": "minecraft:iron_ore",
+	"spelunkery:granite_gold_ore": "minecraft:gold_ore",
+	"spelunkery:granite_copper_ore": "minecraft:stone",
+	"spelunkery:granite_redstone_ore": "minecraft:redstone_ore",
+	"spelunkery:granite_lapis_ore": "minecraft:stone",
+	"spelunkery:granite_emerald_ore": "minecraft:stone",
+	"spelunkery:granite_diamond_ore": "minecraft:diamond_ore",
+	"spelunkery:andesite_coal_ore": "minecraft:coal_ore",
+	"spelunkery:andesite_iron_ore": "minecraft:iron_ore",
+	"spelunkery:andesite_gold_ore": "minecraft:gold_ore",
+	"spelunkery:andesite_copper_ore": "minecraft:stone",
+	"spelunkery:andesite_redstone_ore": "minecraft:redstone_ore",
+	"spelunkery:andesite_lapis_ore": "minecraft:stone",
+	"spelunkery:andesite_emerald_ore": "minecraft:stone",
+	"spelunkery:andesite_diamond_ore": "minecraft:diamond_ore",
+	"spelunkery:diorite_coal_ore": "minecraft:coal_ore",
+	"spelunkery:diorite_iron_ore": "minecraft:iron_ore",
+	"spelunkery:diorite_gold_ore": "minecraft:gold_ore",
+	"spelunkery:diorite_copper_ore": "minecraft:stone",
+	"spelunkery:diorite_redstone_ore": "minecraft:redstone_ore",
+	"spelunkery:diorite_lapis_ore": "minecraft:stone",
+	"spelunkery:diorite_emerald_ore": "minecraft:stone",
+	"spelunkery:diorite_diamond_ore": "minecraft:diamond_ore",
+	"spelunkery:tuff_coal_ore": "minecraft:coal_ore",
+	"spelunkery:tuff_iron_ore": "minecraft:iron_ore",
+	"spelunkery:tuff_gold_ore": "minecraft:gold_ore",
+	"spelunkery:tuff_copper_ore": "minecraft:stone",
+	"spelunkery:tuff_redstone_ore": "minecraft:redstone_ore",
+	"spelunkery:tuff_lapis_ore": "minecraft:stone",
+	"spelunkery:tuff_emerald_ore": "minecraft:stone",
+	"spelunkery:tuff_diamond_ore": "minecraft:diamond_ore",
+	"spelunkery:sandstone_lapis_ore": "minecraft:sandstone",
+	"spelunkery:calcite_redstone_ore": "minecraft:stone",
+	"spelunkery:milly_bubcap": "minecraft:air",
+	"spelunkery:mushgloom": "minecraft:air",
+	"spelunkery:phosphor_fungus": "minecraft:air",
+	"spelunkery:rough_diamond_block": "minecraft:diamond_ore",
+	"spelunkery:portabella": "minecraft:red_mushroom",
+	"spelunkery:crimini": "minecraft:red_mushroom",
+	"spelunkery:button_mushroom": "minecraft:brown_mushroom",
+	"minecraft:powder_snow": "minecraft:snow_block",
+	"quark:azalea_log": "minecraft:air",
+	"spelunkery:white_inkcap_mushroom": "minecraft:air",
+	"spelunkery:inkcap_mushroom": "minecraft:air",
+	"spelunkery:tangle_roots": "minecraft:air",
+	"spelunkery:tangle_roots_plant": "minecraft:air",
+	"minecraft:tripwire": "minecraft:air",
+	"caverns_and_chasms:spinel_ore": "minecraft:stone",
+	"caverns_and_chasms:deepslate_spinel_ore": "minecraft:stone",
+	"spelunkery:conk_fungus": "minecraft:air",
+	"minecraft:seagrass": "minecraft:water",
+	"minecraft:tall_seagrass": "minecraft:water"
+ }
+}

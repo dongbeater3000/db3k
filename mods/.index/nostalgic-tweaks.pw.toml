@@ -1,0 +1,16 @@
+filename = 'NostalgicTweaks-1.19.2-Forge-2.0.0-Beta-8.4.jar'
+name = 'Nostalgic Tweaks (Fabric/NeoForge)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1508ee34e7d7b619aa8d7d7e5968ed15c9fa0ece'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4622269
+project-id = 592465

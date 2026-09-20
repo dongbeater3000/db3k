@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ii",
+        "ii"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:copper_ingot"
+        }
+    },
+    "result": {
+        "item": "kubejs:copper_plating",
+        "count": 8
+    }
+}

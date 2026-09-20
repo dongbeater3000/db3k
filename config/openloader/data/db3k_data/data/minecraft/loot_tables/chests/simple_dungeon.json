@@ -1,0 +1,256 @@
+{
+	"type" : "minecraft:chest",
+	"pools" : [
+		{
+			"rolls" : {
+				"min" : 0.0,
+				"max" : 1.0,
+				"type" : "minecraft:uniform"
+			},
+			"entries" : [
+				{
+					"type" : "minecraft:item",
+					"weight" : 6,
+					"functions" : [
+						{
+							"function" : "minecraft:set_count",
+							"count" : {
+								"min" : 2.0,
+								"max" : 6.0,
+								"type" : "minecraft:uniform"
+							}
+						}
+					],
+					"name" : "kubejs:cobalt"
+				}
+			]
+		},
+		{
+			"rolls" : {
+				"min" : 1.0,
+				"max" : 2.0,
+				"type" : "minecraft:uniform"
+			},
+			"entries" : [
+				{
+					"type" : "minecraft:item",
+					"weight" : 12,
+					"name" : "minecraft:saddle"
+				},
+				{
+					"type" : "minecraft:loot_table",
+					"name" : "minecraft:chests/reference/chain_loot",
+					"weight" : 5
+				},
+				{
+					"type" : "minecraft:loot_table",
+					"name" : "minecraft:chests/reference/dd_overworld_discs",
+					"weight" : 15
+				},
+				{
+					"type" : "minecraft:item",
+					"weight" : 4,
+					"name" : "minecraft:golden_apple"
+				},
+				{
+					"type" : "minecraft:item",
+					"weight" : 9,
+					"name" : "minecraft:name_tag"
+				}
+			]
+		},
+		{
+			"rolls" : {
+				"min" : 1.0,
+				"max" : 3.0,
+				"type" : "minecraft:uniform"
+			},
+			"entries" : [
+				{
+					"type" : "minecraft:item",
+					"weight" : 7,
+					"functions" : [
+						{
+							"function" : "minecraft:set_count",
+							"count" : {
+								"min" : 1.0,
+								"max" : 4.0,
+								"type" : "minecraft:uniform"
+							}
+						}
+					],
+					"name" : "minecraft:raw_copper"
+				},
+				{
+					"type" : "minecraft:item",
+					"weight" : 6,
+					"functions" : [
+						{
+							"function" : "minecraft:set_count",
+							"count" : {
+								"min" : 1.0,
+								"max" : 4.0,
+								"type" : "minecraft:uniform"
+							}
+						}
+					],
+					"name" : "minecraft:raw_iron"
+				},
+				{
+					"type" : "minecraft:item",
+					"weight" : 5,
+					"functions" : [
+						{
+							"function" : "minecraft:set_count",
+							"count" : {
+								"min" : 1.0,
+								"max" : 3.0,
+								"type" : "minecraft:uniform"
+							}
+						}
+					],
+					"name" : "minecraft:raw_gold"
+				},
+				{
+					"type" : "minecraft:item",
+					"weight" : 3,
+					"functions" : [
+						{
+							"function" : "minecraft:set_count",
+							"count" : {
+								"min" : 1.0,
+								"max" : 3.0,
+								"type" : "minecraft:uniform"
+							}
+						}
+					],
+					"name" : "caverns_and_chasms:raw_silver"
+				},
+				{
+					"type" : "minecraft:item",
+					"weight" : 12,
+					"name" : "minecraft:bread"
+				},
+				{
+					"type" : "minecraft:item",
+					"weight" : 10,
+					"name" : "minecraft:bucket"
+				},
+				{
+					"type" : "minecraft:item",
+					"weight" : 4,
+					"functions" : [
+						{
+							"function" : "minecraft:set_count",
+							"count" : {
+								"min" : 1.0,
+								"max" : 2.0,
+								"type" : "minecraft:uniform"
+							}
+						}
+					],
+					"name" : "kubejs:cinnabar"
+				},
+				{
+					"type" : "minecraft:item",
+					"weight" : 12,
+					"functions" : [
+						{
+							"function" : "minecraft:set_count",
+							"count" : {
+								"min" : 1.0,
+								"max" : 4.0,
+								"type" : "minecraft:uniform"
+							}
+						}
+					],
+					"name" : "minecraft:coal"
+				}
+			]
+		},
+		{
+			"rolls" : {
+				"min" : 1.0,
+				"max" : 4.0,
+				"type" : "minecraft:uniform"
+			},
+			"entries" : [
+				{
+				"type" : "minecraft:item",
+				"weight" : 0,
+				"functions" : [
+					{
+					"function" : "minecraft:set_count",
+					"count" : {
+						"min" : 1.0,
+						"max" : 6.0,
+						"type" : "minecraft:uniform"
+					}
+					}
+				],
+				"name" : "minecraft:nautilus_shell"
+				},
+				{
+					"type" : "minecraft:item",
+					"weight" : 10,
+					"functions" : [
+						{
+							"function" : "minecraft:set_count",
+							"count" : {
+								"min" : 1.0,
+								"max" : 6.0,
+								"type" : "minecraft:uniform"
+							}
+						}
+					],
+					"name" : "minecraft:bone_meal"
+				},
+				{
+					"type" : "minecraft:item",
+					"weight" : 10,
+					"functions" : [
+						{
+							"function" : "minecraft:set_count",
+							"count" : {
+								"min" : 1.0,
+								"max" : 6.0,
+								"type" : "minecraft:uniform"
+							}
+						}
+					],
+					"name" : "minecraft:gunpowder"
+				},
+				{
+					"type" : "minecraft:item",
+					"weight" : 12,
+					"functions" : [
+						{
+							"function" : "minecraft:set_count",
+							"count" : {
+								"min" : 1.0,
+								"max" : 8.0,
+								"type" : "minecraft:uniform"
+							}
+						}
+					],
+					"name" : "quark:rope"
+				},
+				{
+					"type" : "minecraft:item",
+					"weight" : 6,
+					"functions" : [
+						{
+							"function" : "minecraft:set_count",
+							"count" : {
+								"min" : 1.0,
+								"max" : 4.0,
+								"type" : "minecraft:uniform"
+							}
+						}
+					],
+					"name" : "supplementaries:bomb"
+				}
+			]
+		}
+	]
+}

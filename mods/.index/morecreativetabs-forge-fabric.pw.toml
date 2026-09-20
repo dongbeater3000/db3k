@@ -1,0 +1,16 @@
+filename = 'MoreCreativeTabs-combo-1.19.2-1.2.2.jar'
+name = 'MoreCreativeTabs [Forge/Fabric]'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ea60057cc312ef932729b3ce97afc799e1f56568'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4633212
+project-id = 581838

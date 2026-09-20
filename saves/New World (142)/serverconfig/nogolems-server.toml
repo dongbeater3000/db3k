@@ -1,0 +1,7 @@
+#Disables creation of iron golems.
+disable_iron_golem = true
+#Disables creation of snow golems.
+disable_snow_golem = false
+#Disables creation of withers.
+disable_wither = true
+

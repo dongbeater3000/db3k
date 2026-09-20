@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "kubejs:brimstone"
+        }
+    },
+    "result": {
+        "item": "kubejs:brimstone_bricks",
+        "count": 4
+    }
+}

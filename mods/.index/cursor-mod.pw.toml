@@ -1,0 +1,16 @@
+filename = 'ForgeCustomCursorMod-1.3.3.jar'
+name = 'Cursor Mod (Fabric/Forge)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2', '1.19.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '021b741458b171771a23f71655d391a1f1fc6769'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4119949
+project-id = 278476

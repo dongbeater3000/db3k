@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "@",
+    "!"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:sweet_berries"
+    },
+    "@": {
+      "item": "minecraft:egg"
+    },
+    "!": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "result": {
+    "item": "kubejs:muffin",
+    "count": 1
+  }
+}

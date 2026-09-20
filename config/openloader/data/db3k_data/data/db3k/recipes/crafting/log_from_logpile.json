@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "kubejs:log_pile"
+        }
+    },
+    "result": {
+        "item": "minecraft:oak_log",
+        "count": 1
+    }
+}

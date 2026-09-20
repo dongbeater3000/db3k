@@ -1,0 +1,16 @@
+filename = 'apathy-forge-1.19.2-2.7.1.jar'
+name = 'Apathy Mod'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '29ed2618ee63404451b95426de261f7ab6f45e93'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4611843
+project-id = 499846

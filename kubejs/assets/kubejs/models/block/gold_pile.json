@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "kubejs:block/gold_pile_top",
+    "side": "kubejs:block/gold_pile"
+  }
+}

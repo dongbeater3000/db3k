@@ -1,0 +1,97 @@
+{
+  "startedEpoch": 1746900460208,
+  "endedEpoch": 1746900468063,
+  "durationMs": 7855,
+  "heap": {
+    "allocationRateBytesPerSecond": 1.9922944E8,
+    "gcCount": 3,
+    "gcOverHeadPercent": 0.2290261,
+    "gcTotalDurationMs": 1799
+  },
+  "cpuPercent": {
+    "jvm": {
+      "min": Infinity,
+      "average": 0.0,
+      "max": -Infinity
+    },
+    "userJvm": {
+      "min": Infinity,
+      "average": 0.0,
+      "max": -Infinity
+    },
+    "system": {
+      "min": Infinity,
+      "average": 0.0,
+      "max": -Infinity
+    }
+  },
+  "network": {
+    "sent": {
+      "totalBytes": 0,
+      "count": 0,
+      "bytesPerSecond": 0.0,
+      "countPerSecond": 0.0,
+      "topContributors": []
+    },
+    "received": {
+      "totalBytes": 0,
+      "count": 0,
+      "bytesPerSecond": 0.0,
+      "countPerSecond": 0.0,
+      "topContributors": []
+    }
+  },
+  "fileIO": {
+    "write": {
+      "totalBytes": 15755,
+      "count": 8,
+      "bytesPerSecond": 2250.714285714286,
+      "countPerSecond": 1.1428571428571428,
+      "topContributors": [
+        {
+          "path": "C:\\Users\\Slopp\\curseforge\\minecraft\\Instances\\_DB3K_Dev\\saves\\The Nugget of Time\\region\\r.-1.-1.mca",
+          "totalBytes": 14673
+        },
+        {
+          "path": "logs\\latest.log",
+          "totalBytes": 387
+        },
+        {
+          "path": "logs\\debug.log",
+          "totalBytes": 387
+        }
+      ]
+    },
+    "read": {
+      "totalBytes": 3509,
+      "count": 4,
+      "bytesPerSecond": 501.2857142857143,
+      "countPerSecond": 0.5714285714285714,
+      "topContributors": [
+        {
+          "path": "C:\\Users\\Slopp\\curseforge\\minecraft\\Install\\libraries\\net\\minecraft\\client\\1.19.2-20220805.130853\\client-1.19.2-20220805.130853-srg.jar",
+          "totalBytes": 3509
+        }
+      ]
+    }
+  },
+  "serverTick": {
+    "minMs": 0.0,
+    "averageMs": 18.843079666666664,
+    "maxMs": 40.11698,
+    "p99": 39.3118755,
+    "p90": 32.065934999999996,
+    "p75": 23.485252000000003,
+    "p50": 18.096216
+  },
+  "threadAllocation": [
+    {
+      "thread": "FileSystemWatchService",
+      "bytesPerSecond": -Infinity
+    }
+  ],
+  "chunkGen": {
+    "durationNanosTotal": 0.0,
+    "status": []
+  }
+}

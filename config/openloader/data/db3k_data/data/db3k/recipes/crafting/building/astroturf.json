@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "!#",
+        "#!"
+    ],
+    "key": {
+        "#": {
+            "item": "kubejs:moss_ball"
+        },
+        "!": {
+            "item": "minecraft:slime_ball"
+        }
+    },
+    "result": {
+        "item": "kubejs:astroturf",
+        "count": 8
+    }
+}

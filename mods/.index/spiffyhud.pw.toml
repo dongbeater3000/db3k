@@ -1,0 +1,16 @@
+filename = 'spiffyhud_forge_3.0.0_MC_1.19.2.jar'
+name = 'SpiffyHUD'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd8b3f726b0a73bc2475aab52ceec7dcc81350254'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6453748
+project-id = 483885

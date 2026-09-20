@@ -1,0 +1,41 @@
+{
+  "item.minecraft.iron_ingot": "Lead Ingot",
+  "item.minecraft.iron_helmet": "Lead Helmet",
+  "item.minecraft.iron_chestplate": "Lead Chestplate",
+  "item.minecraft.iron_leggings": "Lead Leggings",
+  "item.minecraft.iron_boots": "Lead Boots",
+  "item.minecraft.iron_sword": "Lead Sword",
+  "item.minecraft.iron_pickaxe": "Lead Pickaxe",
+  "item.minecraft.iron_axe": "Lead Axe",
+  "item.minecraft.iron_shovel": "Lead Shovel",
+  "item.minecraft.iron_hoe": "Lead Hoe",
+
+  "block.minecraft.iron_ore": "Lead Ore",
+  "block.minecraft.iron_block": "Lead Block",
+  "block.minecraft.iron_door": "Lead Door",
+  "block.minecraft.iron_trapdoor": "Lead Trapdoor",
+
+  "item.minecraft.golden_ingot": "Platinum Ingot",
+  "item.minecraft.golden_helmet": "Platinum Helmet",
+  "item.minecraft.golden_chestplate": "Platinum Chestplate",
+  "item.minecraft.golden_leggings": "Platinum Leggings",
+  "item.minecraft.golden_boots": "Platinum Boots",
+  "item.minecraft.golden_sword": "Platinum Sword",
+  "item.minecraft.golden_pickaxe": "Platinum Pickaxe",
+  "item.minecraft.golden_axe": "Platinum Axe",
+  "item.minecraft.golden_shovel": "Platinum Shovel",
+  "item.minecraft.golden_hoe": "Platinum Hoe",
+  "item.minecraft.golden_apple": "Platinum Apple",
+
+  "block.minecraft.gold_ore": "Platinum Ore",
+  "block.minecraft.gold_block": "Platinum Block",
+
+  "item.minecraft.copper_ingot": "Tin Ingot",
+  "block.minecraft.copper_ore": "Tin Ore",
+
+  "item.minecraft.stone_sword": "Tin Sword",
+  "item.minecraft.stone_pickaxe": "Tin Pickaxe",
+  "item.minecraft.stone_axe": "Tin Axe",
+  "item.minecraft.stone_shovel": "Tin Shovel",
+  "item.minecraft.stone_hoe": "Tin Hoe"
+}

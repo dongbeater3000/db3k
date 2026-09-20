@@ -1,0 +1,9 @@
+{
+    "values": [
+        "minecraft:redstone_block",
+        "kubejs:gold_bricks",
+        "minecraft:magma_block"
+
+    ],
+    "replace": false
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "M"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:string"
+        },
+        "M": {
+            "item": "kubejs:tallow"
+        }
+    },
+    "result": {
+        "item": "minecraft:candle",
+        "count": 1
+    }
+}

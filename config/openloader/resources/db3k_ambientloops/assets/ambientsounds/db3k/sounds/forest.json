@@ -1,0 +1,24 @@
+[
+    {
+        "name": "bird-ambience",
+        "files": [
+            "kubejs:loops.bird"
+        ],
+        "transition": 400,
+        "volume": 0.25,
+        "outside": true,
+        "day": 1,
+        "night": 0
+    },
+    {
+        "name": "cricket-ambience",
+        "files": [
+            "kubejs:loops.crickets"
+        ],
+        "transition": 400,
+        "volume": 0.25,
+        "outside": true,
+        "day": 0,
+        "night": 1
+    }
+]

@@ -1,0 +1,74 @@
+...
+Are you talking to me?
+Why would I waste my wisdom on you?
+... // ... // Oh, I didn't see you there
+Float like a butterfly, // sting like a tree!
+Travellers warn of a creature in the depths who mimics their every move
+Despite my wisdom I have not branched out since I was planted.
+I used to be an adventurer like you, // but then I took an arrow to the tree.
+Long have I served as the guardian spirit
+What brings you to these woods?
+I can say anything and people will believe me because I'm a talking tree
+Lets keep this a secret, okay?
+Nobody will believe you...
+Those who say not to dig straight down are liars.  // All those who’ve done it have returned with unimaginable riches. // Trust me, I’d know.
+There was once a time long ago when dragons roamed these lands. // I haven't seen one in quite some time...
+A sheep took a bite out of my trunk once. The bark is still missing
+The winds of these woods whisper to me of an ancient metal with the capability to harness necromancy. 
+Oh how I love the flowers of the forest. // Say, could you bring me a rose?
+I love the smell of sandalwood, but it feels wrong
+Those who are blind cannot see me
+Obsidian which bleeds may petrify your respawn point...
+I cannot stand the taste of vegetables // But they make good projectiles
+Striking a skeleton down will crush its bones into dust // It would make fantastic fertilizer, if you feel so inclined...
+I haven't seen a traveller in these woods in quite some time
+Time heals all wounds
+I possess knowledge unimagineable
+Beware of the foul omen with eyes of white
+I once spotted a zombie wearing the armor of a fallen traveller
+I'm the king of the stump
+
+You must leave - you are in grove danger (25)
+Stay a while, rest in my shade (25)
+
+Don't tread on my roots, it would not be a wise decision (25)
+
+What sap? (50)
+If I eat an apple, would that be cannibalism? (50)
+$random_future_date will be rather interesting, I reckon (50)
+What is brown and sticky? // A stick! (50)
+Did that last statement stump you? (50)
+I... am wise (50)
+Dee bee three, 'kay? (50)
+My favorite band, the treeatles, play tonight! (50)
+You just got treebaited bro (50)
+I know what DB3K stands for // but you arent ready... (50)
+Please $player_name I need this, my roots are kinda stumpless (50)
+What happened to that Notch fellow anyways? (50)
+A huge wave of zombies is approaching (50)
+Legends tell of a treasure at $random_pos (50)
+Would you like to hear a seecret? (50)
+Seasons come and go, but I will still bark it up with you (50)
+I could've been in the movie if it wasn't for my bum root (50)
+I weep every time a forest creature leaves this world (50)
+
+Do you come to the root district very often? // Oh what am i saying.. of course you don't (75)
+I don't expect you to comprehend my words // I experience time at a vastly slower rate than you (75)
+If the past, present, and future all simulatneously exist as 'block time', // then surely the experience of 'now' can only be an elaborate illusion? (75)
+
+A forest creature perished before me earlier... // Now, I’m a mourning wood. (100)
+Are you going trick-or-treeing? (100)
+It aint easy being treesie (100)
+This is so retro (100)
+Can you pretend I said something wise? (100)
+It’s called treeffoc… and it’s funny (100)
+Are my jokes too clover for you? // You look rather stumped! (100)
+My advice is completely superfluous (100)
+You are the apple of my eye (100)
+I'm a bit acorny... (100)
+I've got a standup routine soon, mind if I try some things out on you? (100)
+I'm rooting for you! (100)
+Da vinky? (100)
+I'm so hungry I could eat a $player_name (100)
+do yall have lap top (100)
+Psst! Try naming a sheep jeb_ (100)

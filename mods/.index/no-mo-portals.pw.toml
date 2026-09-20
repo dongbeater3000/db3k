@@ -1,0 +1,16 @@
+filename = 'nomoportals-1.19.2-3.0.jar'
+name = "NoMo' Portals"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '76984ebbc721d02bd9e0667c9e28d8a0a3063bc9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4836007
+project-id = 813483

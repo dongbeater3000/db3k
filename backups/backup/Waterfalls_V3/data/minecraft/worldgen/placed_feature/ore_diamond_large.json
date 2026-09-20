@@ -1,0 +1,27 @@
+{
+  "feature": "minecraft:ore_diamond_large",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 10
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:biased_to_bottom",
+        "max_inclusive": {
+          "absolute": -26
+        },
+        "min_inclusive": {
+          "absolute": -58
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

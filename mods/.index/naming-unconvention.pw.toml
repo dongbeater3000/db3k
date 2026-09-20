@@ -1,0 +1,16 @@
+filename = 'naming_unconvention-1.1.jar'
+name = 'Naming Unconvention'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cbdc7030d320686bea863b544e65952153887ff0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5177335
+project-id = 963873

@@ -1,0 +1,22 @@
+{
+  "replace": true,
+	"values": [
+      "minecraft:oak_planks",
+      "kubejs:red_planks",
+      "kubejs:magenta_planks",
+      "kubejs:blue_planks",
+      "kubejs:cyan_planks",
+      "kubejs:green_planks",
+      "kubejs:yellow_planks",
+      "kubejs:white_planks",
+      "kubejs:black_planks",
+      "kubejs:orange_planks",
+      "kubejs:pink_planks",
+      "kubejs:violet_planks",
+      "kubejs:indigo_planks",
+      "kubejs:teal_planks",
+      "kubejs:lime_planks",
+      "kubejs:gray_planks",
+      "kubejs:purple_planks"
+]
+}

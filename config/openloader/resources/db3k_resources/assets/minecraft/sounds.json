@@ -1,0 +1,224 @@
+{
+  "ui.button.click": {
+    "replace": true,
+      "sounds": [
+        {
+          "name": "random/click_stereo",
+          "pitch": 1,
+          "weight": 4
+        },
+        {
+          "name": "random/click_stereo",
+          "pitch": 0.975,
+          "weight": 2
+        },
+        {
+          "name": "random/click_stereo",
+          "pitch": 0.95
+        },
+        {
+          "name": "random/click_stereo",
+          "pitch": 0.925
+        },
+        {
+          "name": "random/click_stereo",
+          "pitch": 0.9
+        },
+        {
+          "name": "random/click_stereo",
+          "pitch": 1.025,
+          "weight": 2
+        },
+        {
+          "name": "random/click_stereo",
+          "pitch": 1.05
+        },
+        {
+          "name": "random/click_stereo",
+          "pitch": 1.075
+        },
+        {
+          "name": "random/click_stereo",
+          "pitch": 1.1
+        }
+      ]
+    },
+  "entity.generic.death": {
+    "sounds": [
+      "damage/hit1",
+      "damage/hit2",
+      "damage/hit3"
+    ],
+    "replace": true,
+    "subtitle": "subtitles.entity.generic.death"
+  },
+  "entity.arrow.hit": {
+    "replace": true,
+    "sounds": [
+      "random/bowhit"
+    ],
+    "subtitle": "subtitles.entity.arrow.hit"
+  },
+  "item.crossbow.hit": {
+    "replace": true,
+    "sounds": [
+      "random/bowhit"
+    ],
+    "subtitle": "subtitles.item.crossbow.hit"
+  },
+  "entity.generic.explode": {
+    "replace": true,
+    "sounds": [
+      "random/explode"
+    ],
+    "subtitle": "subtitles.entity.generic.explode"
+  },
+  "entity.lightning_bolt.impact": {
+    "sounds": [
+      "random/explode"
+    ],
+    "subtitle": "subtitles.entity.lightning_bolt.impact"
+  },
+  "block.fence_gate.close": {
+    "replace": true,
+    "sounds": [
+      "block/door/close"
+    ],
+    "subtitle": "subtitles.block.fence_gate.toggle"
+  },
+  "block.fence_gate.open": {
+    "replace": true,
+    "sounds": [
+      "block/door/open"
+    ],
+    "subtitle": "subtitles.block.fence_gate.toggle"
+  },
+  "block.iron_door.close": {
+    "replace": true,
+    "sounds": [
+      "block/door/close"
+    ],
+    "subtitle": "subtitles.block.door.toggle"
+  },
+  "block.iron_door.open": {
+    "replace": true,
+    "sounds": [
+      "block/door/open"
+    ],
+    "subtitle": "subtitles.block.door.toggle"
+  },
+  "block.iron_trapdoor.close": {
+    "replace": true,
+    "sounds": [
+      "block/door/close"
+    ],
+    "subtitle": "subtitles.block.iron_trapdoor.close"
+  },
+  "block.iron_trapdoor.open": {
+    "replace": true,
+    "sounds": [
+      "block/door/open"
+    ],
+    "subtitle": "subtitles.block.iron_trapdoor.open"
+  },
+  "block.wooden_door.close": {
+    "replace": true,
+    "sounds": [
+      "block/door/close"
+    ],
+    "subtitle": "subtitles.block.door.toggle"
+  },
+  "block.wooden_door.open": {
+    "replace": true,
+    "sounds": [
+      "block/door/open"
+    ],
+    "subtitle": "subtitles.block.door.toggle"
+  },
+  "block.wooden_trapdoor.close": {
+    "replace": true,
+    "sounds": [
+      "block/door/close"
+    ],
+    "subtitle": "subtitles.block.trapdoor.toggle"
+  },
+  "block.wooden_trapdoor.open": {
+    "replace": true,
+    "sounds": [
+      "block/door/open"
+    ],
+    "subtitle": "subtitles.block.trapdoor.toggle"
+  },
+  "entity.fishing_bobber.retrieve": {
+    "replace": true,
+    "sounds": []
+  },
+  "entity.fishing_bobber.splash": {
+    "sounds": [
+      "liquid/splash"
+    ],
+    "subtitle": "subtitles.entity.fishing_bobber.splash"
+  },
+  "entity.fishing_bobber.throw": {
+    "replace": true,
+    "sounds": [
+      "random/bow"
+    ],
+    "subtitle": "subtitles.entity.fishing_bobber.throw"
+  },
+  "entity.snowball.throw": {
+   "replace": true,
+   "sounds": [
+      "random/bow"
+    ],
+    "subtitle": "subtitles.entity.snowball.throw"
+  },
+  "entity.egg.throw": {
+   "replace": true,
+   "sounds": [
+      "random/bow"
+    ],
+    "subtitle": "subtitles.entity.egg.throw"
+  },
+  "block.dispenser.dispense": {
+    "sounds": [
+      "random/click"
+    ],
+    "subtitle": "subtitles.block.dispenser.dispense"
+  },
+  "block.dispenser.fail": {
+    "sounds": [
+      "random/click"
+    ],
+    "subtitle": "subtitles.block.dispenser.fail"
+  },
+  "block.dispenser.launch": {
+    "replace": true,
+    "sounds": [
+      "random/bow"
+    ],
+    "subtitle": "subtitles.block.dispenser.dispense"
+  },
+  "block.lever.click": {
+    "replace": true,
+    "sounds": [
+      {
+      "name": "random/flick",
+      "pitch": 1.5,
+      "volume": 1.2
+      }
+    ]
+  },
+  "block.wooden_button.click_on": {
+    "sounds": [
+        "random/click"
+    ],
+    "replace": true
+  },
+  "block.wooden_button.click_off": {
+    "sounds": [
+        "random/click"
+    ],
+    "replace": true
+  }
+}

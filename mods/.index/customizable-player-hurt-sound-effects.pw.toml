@@ -1,0 +1,16 @@
+filename = 'more_player_hurt_sound_effects-1.0.0.jar'
+name = 'Customizable Player Hurt Sound Effects'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f36bf16747762f9b4969720667449887b3cee5ea'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6655871
+project-id = 1287594

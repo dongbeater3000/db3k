@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+        {"model": "minecraft:block/dirt"},
+        {"model": "minecraft:block/dirt_blue"},
+        {"model": "minecraft:block/dirt_cyan"},
+        {"model": "minecraft:block/dirt_green"},
+        {"model": "minecraft:block/dirt_indigo"},
+        {"model": "minecraft:block/dirt_lime"},
+        {"model": "minecraft:block/dirt_magenta"},
+        {"model": "minecraft:block/dirt_orange"},
+        {"model": "minecraft:block/dirt_pink"},
+        {"model": "minecraft:block/dirt_purple"},
+        {"model": "minecraft:block/dirt_red"},
+        {"model": "minecraft:block/dirt_teal"},
+        {"model": "minecraft:block/dirt_violet"},
+        {"model": "minecraft:block/dirt_yellow"}
+    ]
+  }
+}

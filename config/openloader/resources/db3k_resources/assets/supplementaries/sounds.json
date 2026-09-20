@@ -1,0 +1,12 @@
+{
+  "item.bomb": {
+      "subtitle": "subtitles.supplementaries.bomb",
+      "sounds": [
+      {
+        "name" : "minecraft:random/explode",
+        "pitch": 0.95
+      }
+    ],
+    "replace": true
+  }
+}

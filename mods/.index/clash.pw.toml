@@ -1,0 +1,16 @@
+filename = 'clash-1.19.2-0.3.1.jar'
+name = 'Clash!'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '35d10c55b62d8c10a9189a2601a040ce8f5afce6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5094213
+project-id = 468706

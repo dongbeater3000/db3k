@@ -1,0 +1,35 @@
+{
+   "type": "lychee:block_crushing",
+   "falling_block": "minecraft:gravel",
+   "item_in": [
+       {
+           "item": "minecraft:poppy"
+       }
+   ],
+   "post": [
+       {
+           "type": "drop_item",
+           "item": "minecraft:red_dye",
+           "count": 1
+       },
+       {
+           "type": "drop_item",
+           "item": "minecraft:red_dye",
+           "count": 1
+       },
+       {
+           "type": "drop_item",
+           "item": "minecraft:red_dye",
+           "count": 1
+       },
+       {
+           "type": "drop_item",
+           "item": "minecraft:red_dye",
+           "count": 1
+       },
+       {
+         "type": "execute",
+         "command": "playsound minecraft:block.gravel.break block @s ~ ~ ~"
+       }
+   ]
+}

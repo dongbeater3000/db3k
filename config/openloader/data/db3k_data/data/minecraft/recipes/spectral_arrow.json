@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " G ",
+        " I ",
+        " # "
+    ],
+    "key": {
+        "G": {
+            "item": "caverns_and_chasms:silver_ingot"
+        },
+        "I": {
+            "item": "minecraft:stick"
+        },
+        "#": {
+            "item": "minecraft:feather"
+        }
+    },
+    "result": {
+        "item": "minecraft:spectral_arrow",
+        "count": 4
+    }
+}

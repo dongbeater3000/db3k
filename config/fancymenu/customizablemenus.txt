@@ -1,0 +1,92 @@
+type = customizablemenus
+
+mod.adrenix.nostalgic.client.screen.NostalgicPauseScreen {
+}
+
+net.minecraft.client.gui.screens.ShareToLanScreen {
+}
+
+net.minecraft.client.gui.screens.SoundOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.VideoSettingsScreen {
+}
+
+net.minecraft.client.gui.screens.AccessibilityOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
+}
+
+mod.adrenix.nostalgic.client.config.gui.screen.config.ConfigScreen {
+}
+
+mod.adrenix.nostalgic.client.config.gui.screen.SettingsScreen {
+}
+
+com.mrcrayfish.configured.client.screen.ConfigScreen {
+}
+
+net.minecraft.client.gui.screens.OptionsScreen {
+}
+
+net.minecraft.client.gui.screens.social.SocialInteractionsScreen {
+}
+
+net.minecraft.client.gui.screens.SkinCustomizationScreen {
+}
+
+net.minecraft.client.gui.screens.inventory.InventoryScreen {
+}
+
+net.minecraft.client.gui.screens.DeathScreen {
+}
+
+net.minecraft.client.gui.screens.LevelLoadingScreen {
+}
+
+net.minecraft.client.gui.screens.controls.ControlsScreen {
+}
+
+com.mrcrayfish.controllable.client.gui.screens.ControllerSelectionScreen {
+}
+
+vazkii.quark.base.client.config.screen.QuarkConfigHomeScreen {
+}
+
+fuzs.easyanvils.client.gui.screens.inventory.NameTagEditScreen {
+}
+
+net.minecraft.client.gui.screens.ChatScreen {
+}
+
+net.minecraft.client.gui.screens.TitleScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.CreateWorldScreen {
+}
+
+net.minecraft.client.gui.screens.inventory.CraftingScreen {
+}
+
+net.minecraft.client.gui.screens.inventory.FurnaceScreen {
+}
+
+tallestred.more_player_hurt_sound_effects.client.screen.HurtSoundConfigScreen {
+}
+
+de.keksuccino.spiffyhud.customization.SpiffyOverlayScreen {
+}
+
+mod.adrenix.nostalgic.client.screen.NostalgicTitleScreen {
+}
+
+net.minecraft.client.gui.screens.OnlineOptionsScreen {
+}
+
+dev.arbor.extrasoundsnext.gui.VolumeScreen {
+}
+
+net.minecraft.client.gui.screens.PauseScreen {
+}
+

@@ -1,0 +1,16 @@
+filename = 'catalogue-1.7.0-1.19.2.jar'
+name = 'Catalogue'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e6f401e3a5dc3943a6780a31438cd223a3511eda'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4171024
+project-id = 459701

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "MEM",
+        "WWW"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:milk_bucket"
+        },
+        "M": {
+            "item": "minecraft:sugar_cane"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        },
+        "W": {
+            "item": "minecraft:wheat"
+        }
+    },
+    "result": {
+        "item": "minecraft:cake",
+        "count": 1
+    }
+}

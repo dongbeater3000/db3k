@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "B"
+    ],
+    "key": {
+        "B": {
+            "item": "kubejs:copper_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:copper_ingot",
+        "count": 9
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " ! ",
+        "#M#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "caverns_and_chasms:silver_ingot"
+        },
+        "M": {
+            "item": "minecraft:gunpowder"
+        },
+        "!": {
+            "item": "minecraft:string"
+        }
+    },
+    "result": {
+        "item": "supplementaries:bomb",
+        "count": 3
+    }
+}

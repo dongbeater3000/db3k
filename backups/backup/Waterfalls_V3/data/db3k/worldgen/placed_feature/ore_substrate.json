@@ -1,0 +1,23 @@
+{
+    "feature": "db3k:ore_substrate",
+    "placement": [
+      {
+        "type": "count",
+        "count": 8
+      },
+      {
+        "type": "minecraft:in_square"
+      },
+      {
+        "type": "minecraft:heightmap",
+        "heightmap": "OCEAN_FLOOR_WG"
+      },
+      {
+        "type": "minecraft:block_predicate_filter",
+        "predicate": {
+          "type": "minecraft:matching_fluids",
+          "fluids": "minecraft:water"
+        }
+      }
+    ]
+  }

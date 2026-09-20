@@ -1,0 +1,8 @@
+{
+    "type": "woken_up",
+    "trust_required": 50,
+    "text": [
+      "Speak up then, I dont have all day!", 
+      "Oh wait, I do."
+    ]
+  }

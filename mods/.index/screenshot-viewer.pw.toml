@@ -1,0 +1,16 @@
+filename = 'screenshot_viewer-1.1.3-forge-mc1.19x.jar'
+name = 'Screenshot Viewer'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'efbb15bdc034021c547715568b71eadad424b920'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4676291
+project-id = 693961

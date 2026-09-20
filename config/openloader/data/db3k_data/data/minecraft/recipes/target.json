@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#W#",
+        "W#W",
+        "#W#"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:wool"
+        },
+        "W": {
+            "item": "minecraft:redstone"
+        }
+    },
+    "result": {
+        "item": "minecraft:target",
+        "count": 1
+    }
+}

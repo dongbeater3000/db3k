@@ -1,0 +1,6 @@
+{
+    "level": 3,
+    "better": ["minecraft:diamond"],
+    "worse": ["minecraft:iron"],
+    "color": "aqua"
+}

@@ -1,0 +1,10 @@
+{
+    "oof": {
+		"sounds": [
+			"fabrication:oof",
+            "fabrication:oof2",
+            "fabrication:oof3"
+		],
+		"subtitle": "subtitles.entity.player.hurt"
+	}
+}

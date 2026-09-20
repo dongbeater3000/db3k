@@ -1,0 +1,20 @@
+{
+  "block.rocky_dirt.step": {
+    "sounds": [
+      {
+        "name": "caverns_and_chasms:block.rocky_dirt.break",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },    
+  "block.rocky_dirt.fall": {
+    "sounds": [
+      {
+        "name": "caverns_and_chasms:block.rocky_dirt.break",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  }
+}

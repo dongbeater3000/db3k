@@ -1,0 +1,16 @@
+filename = 'berry_good-1.19.2-6.1.0.jar'
+name = 'Berry Good'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '79d481d12b4e148f1433f52359292fb2967e4b83'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4776143
+project-id = 355589

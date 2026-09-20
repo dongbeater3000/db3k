@@ -1,0 +1,12 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+      "item": "minecraft:diamond_axe"
+    },
+    "block_in": "oak_log",
+    "post": [
+        {
+          "type": "prevent_default"
+        }
+    ]
+}

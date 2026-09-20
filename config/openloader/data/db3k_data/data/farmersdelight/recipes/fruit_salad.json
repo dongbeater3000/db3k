@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "A",
+        "B"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:snow_block"
+        },
+        "A": {
+            "item": "minecraft:milk_bucket"
+        },
+        "B": {
+            "item": "minecraft:bowl"
+        }
+    },
+    "result": {
+        "item": "farmersdelight:fruit_salad",
+        "count": 1
+    }
+}
